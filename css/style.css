@@ -498,6 +498,7 @@ body {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
+  text-indent: 1.6em;
 }
 .content code {
   hyphens: manual;
