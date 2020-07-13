@@ -1,0 +1,33 @@
+<div id="footer-post-container">
+  <ul class="footer-post-actions">
+    <li>
+      <a class="icon" href="#"
+        onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"
+      >
+        <i class="fas fa-chevron-up" aria-hidden="true"></i>
+        &#8593; Retour en haut
+      </a>
+    </li>
+    <% if (page.prev) { %>
+      <li>
+        <a class="icon" href="<%- url_for(page.prev.path) %>">
+          <i class="fas fa-chevron-left" aria-hidden="true"></i>
+          &#8592; Précédent : <em><%= page.prev.title %></em>
+        </a>
+      </li>
+    <% } %>
+    <% if (page.next) { %>
+      <li>
+        <a class="icon" href="<%- url_for(page.next.path) %>">
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+          &#8594; Suivant : <em><%= page.next.title %></em>
+        </a>
+      </li>
+    <% } %>
+    <li>
+      <a href="<%- url_for('/') %>" class="icon">
+        <em>Sommaire</em>
+      </a>
+    </li>
+  </ul>
+</div>

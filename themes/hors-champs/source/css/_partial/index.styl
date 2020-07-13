@@ -1,0 +1,45 @@
+.post-list
+  padding: 0
+
+  .post-item
+    margin-bottom: 1rem
+    margin-left: 0
+    list-style-type: none
+
+    .meta
+      display: block
+      min-width: 100px
+      color: $color-meta
+      font-size: 14px
+
+@media (max-width: 480px)
+  .post-list
+    .post-item
+      padding-bottom: 1em
+      margin-top: 1.2em
+      border-bottom 1px solid lighten($color-text, 80%)
+
+      span,
+      div
+        display: inline
+
+@media (min-width: 480px)
+  .post-list
+    .post-item
+      display: flex
+      margin-bottom: 5px
+
+      span
+        margin-left: 1em
+
+      .meta
+        text-align: left
+
+.project-list
+  padding: 0
+  list-style: none
+
+  .project-item
+    margin-bottom: 5px
+    p
+      display: inline
