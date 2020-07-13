@@ -498,7 +498,6 @@ body {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
-  text-indent: 1.6em;
 }
 .content code {
   hyphens: manual;
@@ -585,10 +584,9 @@ body {
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
-}
-@media (min-width: 480px) {
-  p {
-    text-align: justify;
+  .py4 {
+    padding-top: 2rem;
+    padding-bottom: 6rem;
   }
 }
 #header {
@@ -671,15 +669,6 @@ body {
   -webkit-filter: none;
 }
 @media screen and (max-width: 480px) {
-  #header #title {
-    display: table;
-    margin-right: 5rem;
-    min-height: 0px;
-  }
-  #header #title h1 {
-    display: table-cell;
-    vertical-align: middle;
-  }
   #header #nav ul a:hover {
     background: none;
   }
@@ -915,141 +904,20 @@ body {
     display: none;
   }
 }
-#footer-post {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 5000000;
-  width: 100%;
-  border-top: 1px solid #666;
-  background: #fafafa;
-  transition: opacity 0.2s;
-}
-#footer-post a {
-  background: none;
-  color: inherit;
-  text-decoration: none;
-}
-#footer-post a.icon {
-  background: none;
-}
-#footer-post a.icon:hover {
-  color: #2bbc8a;
-}
-#footer-post #nav-footer {
-  padding-right: 1rem;
-  padding-left: 1rem;
-  background: #e6e6e6;
-  text-align: center;
-}
-#footer-post #nav-footer a {
-  color: #2bbc8a;
-  font-size: 1em;
-}
-#footer-post #nav-footer a:hover {
-  background-image: linear-gradient(transparent, transparent 5px, #2bbc8a 5px, #2bbc8a);
-  background-position: bottom;
-  background-size: 100% 6px;
-  background-repeat: repeat-x;
-}
-#footer-post #nav-footer ul {
-  display: table;
-  margin: 0;
+.footer-post-actions {
+  list-style: none;
   padding: 0;
-  width: 100%;
-  list-style-type: none;
+  padding-top: 2em;
+  margin-top: 2em;
+  border-top: 1px dotted #dadada;
 }
-#footer-post #nav-footer ul li {
-  display: inline-table;
-  padding: 10px;
-  width: 20%;
-  vertical-align: middle;
+.footer-post-actions li {
+  padding-bottom: 0.4em;
+  margin-top: 0.6em;
+  border-bottom: 1px solid #dadada;
 }
-#footer-post #actions-footer {
-  overflow: auto;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  padding-right: 1rem;
-  padding-left: 1rem;
-  width: 100%;
-  text-align: center;
-  white-space: nowrap;
-}
-#footer-post #actions-footer a {
-  display: inline-block;
-  padding-left: 1rem;
-  color: #2bbc8a;
-}
-#footer-post #share-footer {
-  padding-right: 1rem;
-  padding-left: 1rem;
-  background: #e6e6e6;
-  text-align: center;
-}
-#footer-post #share-footer ul {
-  display: table;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  list-style-type: none;
-}
-#footer-post #share-footer ul li {
-  display: inline-table;
-  padding: 10px;
-  width: 20%;
-  vertical-align: middle;
-}
-#footer-post #toc-footer {
-  clear: both;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background: #e6e6e6;
-  text-align: left;
-}
-#footer-post #toc-footer ol {
-  margin: 0;
-  padding-left: 20px;
-  list-style-type: none;
-}
-#footer-post #toc-footer ol li {
-  line-height: 30px;
-}
-#footer-post #toc-footer a:hover {
-  color: #2bbc8a;
-}
-#footer-post #toc-footer .toc-level-1 > .toc-link {
-  display: none;
-}
-#footer-post #toc-footer .toc-level-2 {
-  color: #464646;
-  font-size: 0.8rem;
-}
-#footer-post #toc-footer .toc-level-2:before {
-  color: #2bbc8a;
-  content: "#";
-}
-#footer-post #toc-footer .toc-level-3 {
-  color: #666;
-  font-size: 0.7rem;
-  line-height: 15px;
-}
-#footer-post #toc-footer .toc-level-4 {
-  display: none;
-}
-#footer-post #toc-footer .toc-level-5 {
-  display: none;
-}
-#footer-post #toc-footer .toc-level-6 {
-  display: none;
-}
-#footer-post #toc-footer .toc-number {
-  display: none;
-}
-@media screen and (min-width: 500px) {
-  #footer-post-container {
-    display: none;
-  }
+.footer-post-actions li:last-child {
+  border-bottom: 0;
 }
 .post-list {
   padding: 0;
@@ -1059,19 +927,30 @@ body {
   margin-left: 0;
   list-style-type: none;
 }
-.post-list .post-item span {
-  margin-left: 1em;
-}
 .post-list .post-item .meta {
   display: block;
   min-width: 100px;
   color: #666;
   font-size: 14px;
 }
+@media (max-width: 480px) {
+  .post-list .post-item {
+    padding-bottom: 1em;
+    margin-top: 1.2em;
+    border-bottom: 1px solid #dadada;
+  }
+  .post-list .post-item span,
+  .post-list .post-item div {
+    display: inline;
+  }
+}
 @media (min-width: 480px) {
   .post-list .post-item {
     display: flex;
     margin-bottom: 5px;
+  }
+  .post-list .post-item span {
+    margin-left: 1em;
   }
   .post-list .post-item .meta {
     text-align: left;
@@ -1086,6 +965,11 @@ body {
 }
 .project-list .project-item p {
   display: inline;
+}
+article p {
+  text-indent: 1em;
+  text-align: justify;
+  text-justify: inter-character;
 }
 article header .posttitle {
   margin-top: 0;
@@ -1237,6 +1121,31 @@ article .content .caption {
     content: "|";
   }
 }
+@media (max-width: 600px) {
+  article .content blockquote {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+@media (max-width: 480px) {
+  article header .posttitle {
+    font-size: 2rem;
+  }
+  article .content blockquote {
+    font-size: 1.7rem;
+    line-height: 1.4;
+  }
+  article .content blockquote p {
+    text-align: left;
+  }
+}
+@media (max-width: 400px) {
+  article .content blockquote {
+    font-size: 1.5rem;
+  }
+}
 #archive .post-list {
   padding: 0;
 }
@@ -1268,12 +1177,12 @@ article .content .caption {
 #footer {
   position: absolute;
   bottom: 0;
-  margin-bottom: 10px;
   width: 100%;
   color: #666;
   vertical-align: top;
-  text-align: center;
-  font-size: 11px;
+  text-align: left;
+  font-size: 0.7em;
+  margin-bottom: 1em;
 }
 #footer ul {
   margin: 0;
@@ -1282,7 +1191,7 @@ article .content .caption {
 }
 #footer li {
   display: inline-block;
-  margin-right: 15px;
+  margin-right: 1em;
   border-right: 1px solid;
   border-color: #666;
   vertical-align: middle;
@@ -1306,9 +1215,12 @@ article .content .caption {
   color: #858585;
 }
 #footer .footer-left {
-  height: 20px;
   vertical-align: middle;
   line-height: 20px;
+}
+#footer .footer-left,
+#footer .footer-right {
+  margin-bottom: 1em;
 }
 @media (min-width: 39rem) {
   #footer {
@@ -1317,7 +1229,6 @@ article .content .caption {
     justify-content: space-between;
     align-items: center;
     align-content: center;
-    margin-bottom: 20px;
   }
   #footer .footer-left {
     align-self: flex-start;
