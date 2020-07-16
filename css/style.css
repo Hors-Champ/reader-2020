@@ -929,7 +929,7 @@ body {
 }
 .post-list .post-item .meta {
   display: block;
-  min-width: 100px;
+  min-width: 11.4em;
   color: #666;
   font-size: 14px;
 }
@@ -967,7 +967,6 @@ body {
   display: inline;
 }
 article p {
-  text-indent: 1em;
   text-align: justify;
   text-justify: inter-character;
 }
