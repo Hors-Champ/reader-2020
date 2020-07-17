@@ -45,4 +45,4 @@ jobs:
         committer: GitHub Action
         commit_message: Build and Deploy Hexo Site to gh-pages
       env:
-        GITHUB_TOKEN: ${{ secrets.HORS_CHAMP_TOKEN }
+        GITHUB_TOKEN: ${{ secrets.HORS_CHAMP_TOKEN }}
