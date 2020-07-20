@@ -1,9 +1,7 @@
 {
-  "name": "Reader de Hors-Champ",
+  "name": "reader-hors-champ",
   "description": "Le Reader du journal Hors-Champ",
-  "tags": ["reader", "hexo"],
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
@@ -24,5 +22,20 @@
     "hexo-renderer-marked": "^2.0.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hors-Champ/reader-2020.git"
+  },
+  "keywords": [
+    "reader"
+  ],
+  "author": "Wizhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hors-Champ/reader-2020/issues"
+  },
+  "homepage": "https://github.com/Hors-Champ/reader-2020#readme"
 }
