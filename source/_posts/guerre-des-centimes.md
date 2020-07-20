@@ -1,8 +1,9 @@
 ---
 title: La Guerre des centimes
 date: 2019-08-20 12:30:52
-tags:
+type: Article
 author: Julien Baroghel
+real: Nader S. Ayach
 ---
 
 

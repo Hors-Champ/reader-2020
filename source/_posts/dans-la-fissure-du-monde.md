@@ -1,13 +1,11 @@
 ---
-title: Dans la fissure du monde
+title: "Séminaire : L'effraction du réel"
 date: 2019-08-19 18:03:04
-tags:
+type: Article
 author: Marie Clément
 ---
 
 ![](fissure.jpg)
-
-__Séminaire : L'effraction du réel__
 
 Aimer le documentaire, ce pourrait être affirmer que subtilité du scénario, profondeur des fossés narratifs ou performance de star ne sont pas ce qui importe le plus au cinéma. Bien plutôt le monde, plus ou moins loin autour de nous. Dire avec Rivette :
 > « *un film, ce sont \[...\] des hommes qui agissent sous nos yeux, et nous obligent à les accompagner dans leurs actes, à partager leur vie, à participer aux milles petits incidents qui font une existence, et nous intéressent* ».

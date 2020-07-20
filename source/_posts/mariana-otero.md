@@ -1,8 +1,8 @@
 ---
-title: Entretient avec Mariana Otero
-date: 2019-08-20 11:51:07
+title: Mariana Otero nous parle d'Histoire d’un Regard
+type: Entretient
+date: 2019-08-20
 author: Garance Le Bars
-tags:
 ---
 
 ![hey](marina.jpg)

@@ -1,6 +1,8 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "Reader de Hors-Champ",
+  "description": "Le Reader du journal Hors-Champ",
+  "tags": ["reader", "hexo"],
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "hexo generate",

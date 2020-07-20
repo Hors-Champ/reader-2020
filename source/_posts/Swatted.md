@@ -2,7 +2,8 @@
 title: GAME OVER
 date: 2019-08-20 10:55:38
 author: Mehdi Sahed
-tags:
+type: Article
+real: Ismaël Joffroy Chandoutis
 ---
 **Swatted** par Ismaël Joffroy Chandoutis • 2018
 

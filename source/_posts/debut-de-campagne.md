@@ -1,8 +1,9 @@
 ---
-title: Début de campagne
+title: La Cravate
 date: 2019-08-19 13:03:18
-tags:
+type: Article
 author: Alix Tulipe
+real: Mathias Théry et Étienne Chaillou
 ---
 
 ![](campagne2.jpg)
