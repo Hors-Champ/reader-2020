@@ -73,7 +73,7 @@ Une fois vos mofidications terminées, faites un *commit* de celle-ci dans le pr
 
 ## Utiliser Prose
 
-![capture d'écran de Prose](https://github.com/wizhou/hors-champs/tree/master/medias/prose.png)
+![capture d'écran de Prose](https://raw.githubusercontent.com/wizhou/hors-champs/master/medias/prose.png)
 
 [Prose](prose.io) est un éditeur en ligne qui vous permet de faire des modifications dans vos articles avec un éditeur plus agréable. Pour cela, vous aurez besoin de connectez Prose à votre compte Github, et de lui fournir l'authorisation de faire des modifications pour vous.
 
