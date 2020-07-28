@@ -47,3 +47,10 @@ Titre: *Mate SC* • Labeur : *EB Garamond*.
 </div>
 
 Titre: *Lack* • Labeur : *Sorts Mill Goudy*
+
+<div style="">
+  <h1 style="font-family: 'Karrik'; text-transform: uppercase;">La guerre des centimes</h1>
+  <p>C’est une image tremblante, fragile, qui nous fait entrer dans cette histoire de débrouille et de précarité. À leur arrivée à Paris, Omar et Marwen deviennent livreurs à vélo pour gagner de quoi vivre et pouvoir, un jour, réaliser leurs rêves : devenir journaliste pour l’un, rappeur pour l’autre. <em>Le film nous embarque dans l’urgence au milieu de la circulation d’un Paris labyrinthique.</em> Concurrence, vulnérabilité, danger, lutte sociale, survie, solitude. Le nouveau monde du travail est un monde en guerre.</p>
+</div>
+
+Titre: *Karrik-Regular* • Labeur : *Gentium*.
