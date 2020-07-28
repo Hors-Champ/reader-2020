@@ -38,3 +38,20 @@
         <% } %>
   </div>
 </article>
+<div id="footer-post-container">
+  <ul class="footer-post-actions">
+    <li>
+      <a class="icon" href="#"
+        onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"
+      >
+        <i class="fas fa-chevron-up" aria-hidden="true"></i>
+        &#8593; Retour en haut
+      </a>
+    </li>
+    <li>
+      <a href="<%- url_for('/') %>" class="icon">
+        Aller au <em>Sommaire</em>
+      </a>
+    </li>
+  </ul>
+</div>
