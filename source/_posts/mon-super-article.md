@@ -1,3 +1,10 @@
+---
+title: Mon super article
+date: 2020-07-29
+type: Article
+author: Romain Goetz
+real: Julien Dupont
+---
 
 
 # Mon super titre
