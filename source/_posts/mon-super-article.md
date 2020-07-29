@@ -1,6 +1,6 @@
 ---
 title: Mon super article
-date: 2020-07-29T00:00:00.000Z
+date: {}
 type: Article
 author: Alix Tulipe
 real: Julien Dupont
@@ -17,6 +17,8 @@ published: true
 
 
 ----
+
+Et je peux écrire à mon tour
 
 Un autre paragraphe.
 
