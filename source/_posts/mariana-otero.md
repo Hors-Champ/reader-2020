@@ -1,6 +1,6 @@
 ---
 title: Mariana Otero nous parle d'Histoire d’un Regard
-type: Entretient
+type: Entretien
 date: 2019-08-20
 author: Garance Le Bars
 ---
