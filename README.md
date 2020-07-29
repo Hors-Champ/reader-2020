@@ -1,4 +1,4 @@
-# Reader de Hors-Champ
+# Reader de Hors Champ
 
 Ce projet est le *reader* du journal Hors-Champ. C'est une plateforme de publication et de lecture des articles du journal.
 
