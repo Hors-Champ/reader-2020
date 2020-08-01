@@ -1,6 +1,7 @@
-## A tout prendre, rien plutôt que la moitié
-Julie Agutes
-2020
+## À tout prendre, rien plutôt que moitié
+- **Julie Agutes**
+- **2020**
+
 
 ### Le renard sort du bois
 
@@ -12,7 +13,8 @@ Ce mythe du _banditu_ résistant, c’est du cinéma ! La police est caricaturé
 
 Gaëlle Rilliard 
 
-## Expérience du regard
-Jeudi  20 à 21h
+- **Expérience du regard**
+- **Jeudi  20 à 21h**
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
