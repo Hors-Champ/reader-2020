@@ -1,6 +1,7 @@
 ## À tout prendre, rien plutôt que moitié
-- **Julie Agutes**
-- **2020**
+## Julie Agutes
+## 2020
+
 
 
 ### Le renard sort du bois
