@@ -7,9 +7,9 @@ author: Gaëlle Rilliard
 real: Machine Machin
 ---
 
-# Le renard sort du bois
-
 ![Mon chimigramme](chimigramme.png)
+
+# Le renard sort du bois
 
 Braquages, années de prison : Pierrot est un _banditu_ de Haute Corse. Ses vols profitent aux siens, qui le protègent en retour lorsqu’il prend le maquis chez lui, entre Balagne et désert des Agriattes. 
 
