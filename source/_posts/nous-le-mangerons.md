@@ -12,9 +12,11 @@ type: Article
 # Couvert de sang, fluide, fertile et chaud
 
 *Nous le mangerons* nous plonge dans la quête d'une bergère : celle d'abattre elle-même ses bêtes. 
-Le film la suit dans les rituels qui lui permettront d'atteindre ce but, autant de facettes que revêt la mort au sein d'un élevage, autant d'occasion pour elle d'apprendre un peu mieux à tuer, un peu mieux à équarrir. Il interroge sur la place de la mort dans notre société et dans nos humanités, sur les manières que nous avons de la donner. Il explore les tréfonds émotionnels, essentialistes et transformatifs du *post-mortem*, il s'en présente comme un journal intime, l'initiation par la *praxis* de ce désir d'autonomie.
+Le film la suit dans les rituels qui lui permettront d'atteindre ce but, autant de facettes que revêt la mort au sein d'un élevage, autant d'occasion pour elle d'apprendre un peu mieux à tuer, un peu mieux à équarrir. Il interroge sur la place de la mort dans notre société et dans nos humanités, sur les manières que nous avons de la donner. Il explore les tréfonds émotionnels, fondamentaux et transformatifs du *post-mortem*, il s'en présente comme un journal intime, l'initiation par la *praxis* de ce désir d'autonomie.
 
-Ce souhait de la bergère est à contre courant de la législation de son métier, qui impose l'abattoir comme seul lieu apte à donner une mort consommable, et d'un pastoralisme idyllique, qui mettrait la vie et le soin comme cœur vivant du troupeau. La mort n'est pas ici 
+Ce souhait de la bergère est à contre-courant de la législation de son métier, qui impose l'abattoir comme seul lieu apte à donner une mort consommable, et d'un pastoralisme idyllique, qui mettrait la vie et le soin comme cœur vivant du troupeau. La mort n'est pas ici une désolation, ce n'est pas une finalité lugubre de sa compagnie avec le troupeau, ni même la violence industrielle du massacre sanglant, celui qui façonne des carcasses à la chaîne et qu'elle prétend faire éviter à ses bêtes. La mort est ici un acte tendre, une passation douloureuse qui perpétue le vivant, une décision chargée d'émotions et de souvenir, un acte conscient et responsable qui doit faire sens quant à son utilité.
+
+
 Les morts auxquelles est confrontée la bergère sont accompagnées de l'enseignement de plusieurs femmes. Elle 
 
 
