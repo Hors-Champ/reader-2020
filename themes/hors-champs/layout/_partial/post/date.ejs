@@ -1,7 +1,7 @@
 <% if (post.filmDate) { %>
     <div class="<%= class_name %>">
       <% if (is_post()) { %>
-        <time datetime="<%= date_xml(post.filmDate) %>"><%= date(post.filmDate, config.date_format) %></time>
+        <time datetime="<%- post.filmDate %>"><%- post.filmDate %></time>
       <% } else { %>
         <% if (is_home() && theme.posts_overview.sort_updated || is_archive() && theme.archive.sort_updated ) { %>
           <time datetime="<%- post.filmDate %>"><%- post.filmDate %></time>
