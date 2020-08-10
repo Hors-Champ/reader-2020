@@ -12,7 +12,7 @@
         <span><% if (page.real) { %><%- page.real %><% } else { %><%- config.title %><% } %></span>
       </span>
       &MediumSpace;&bull;&MediumSpace;
-      <%# partial('_partial/post/date', { post: page, class_name: 'postdate' }) %>
+      <%- partial('_partial/post/date', { post: page, class_name: 'postdate' }) %>
       <%# partial('_partial/post/category', { post: page }) %>
       <%# partial('_partial/post/tag') %>
     </div>
