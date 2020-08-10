@@ -7,15 +7,7 @@ author: Gaëlle Rilliard
 real: Machine Machin
 ---
 
-
-
-## À tout prendre, rien plutôt que moitié
-## Julie Agutes
-## 2020
-
-
-
-								### Le renard sort du bois
+# Le renard sort du bois
 
 Braquages, années de prison : Pierrot est un _banditu_ de Haute Corse. Ses vols profitent aux siens, qui le protègent en retour lorsqu’il prend le maquis chez lui, entre Balagne et désert des Agriattes. 
 
@@ -25,8 +17,7 @@ Ce mythe du _banditu_ résistant, c’est du cinéma ! La police est caricaturé
 
 Gaëlle Rilliard 
 
+****
+
 - **Expérience du regard**
 - **Jeudi  20 à 21h**
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
