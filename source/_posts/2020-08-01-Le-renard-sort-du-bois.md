@@ -1,13 +1,15 @@
 ---
 title: À tout prendre rien plutôt que moitié
 published: true
-date: 2020-08-10T00:00:00.000Z
+date: {}
 type: Article
 author: Gaëlle Rilliard
 real: Machine Machin
 ---
 
 # Le renard sort du bois
+
+![Mon chimigramme](chimigramme.png)
 
 Braquages, années de prison : Pierrot est un _banditu_ de Haute Corse. Ses vols profitent aux siens, qui le protègent en retour lorsqu’il prend le maquis chez lui, entre Balagne et désert des Agriattes. 
 
