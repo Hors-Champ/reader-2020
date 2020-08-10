@@ -12,7 +12,7 @@ filmDate: 2020
 
 *Nous le mangerons* est un film qui nous place face à la mort. La mort donnée, la mort raisonnée, la mort apprise. Elle est montrée telle un outil de subsistance, de pouvoir sur et de fondement d'humanité. Prise à *minima*, elle nous apprendrait plus sur ce que nous sommes et la position que nous accaparons que son usuelle dé-responsabilisation et invisibilisation sociale. 
 
-*Nous le mangerons* suit l'initiation d'une bergère à l'auto-abattage. Elle souhaite être capable de mettre à mort et d'exploiter elle-même ses bêtes, sans avoir recours à l'abattoir, et 
+*Nous le mangerons* suit l'initiation d'une bergère à l'auto-abattage. Elle souhaite être capable de mettre à mort et d'exploiter elle-même ses bêtes, et nous emporte dans les différents rituels qui lui permettrons d'atteindre ce but.
 
 
 Le film nous plonge dans la quête d'une bergère : celle d'abattre elle-même ses bêtes. 
