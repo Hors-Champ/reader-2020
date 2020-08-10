@@ -1,5 +1,10 @@
 ---
 title: À tout prendre rien plutôt que moitié
+published: true
+date: 2020-08-10T00:00:00.000Z
+type: Article
+author: Gaëlle Rilliard
+real: Machine Machin
 ---
 
 
