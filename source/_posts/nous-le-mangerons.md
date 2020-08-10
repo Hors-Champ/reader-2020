@@ -2,10 +2,11 @@
 created: {}
 modified: {}
 published: true
-title: Nous le mangerons, c'est la moindre des choses.
+title: 'Nous le mangerons, c’est la moindre des choses.'
 author: Romain Gœtz
 real: Elsa Maury
 filmDate: 2020
+type: Article
 ---
 
 # Couvert de sang, fluide, fertile et chaud.
