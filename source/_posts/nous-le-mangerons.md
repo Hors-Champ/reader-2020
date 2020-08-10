@@ -9,17 +9,17 @@ filmDate: 2020
 type: Article
 ---
 
-# Couvert de sang, fluide, fertile et chaud.
+# Couvert de sang, fluide, fertile et chaud
+
+*Nous le mangerons* nous plonge dans la quête d'une bergère : celle d'abattre elle-même ses bêtes. 
+Le film la suit dans les rituels qui lui permettront d'atteindre ce but, autant de facettes que revêt la mort au sein d'un élevage, autant d'occasion pour elle d'apprendre un peu mieux à tuer, un peu mieux à équarrir. Il interroge sur la place de la mort dans notre société et dans nos humanités, sur les manières que nous avons de la donner. Il explore les tréfonds émotionnels, essentialistes et transformatifs du *post-mortem*, il s'en présente comme un journal intime, l'initiation par la *praxis* de ce désir d'autonomie.
+
+Ce souhait de la bergère est à contre courant de la législation de son métier, qui impose l'abattoir comme seul lieu apte à donner une mort consommable, et d'un pastoralisme idyllique, qui mettrait la vie et le soin comme cœur vivant du troupeau. La mort n'est pas ici 
+Les morts auxquelles est confrontée la bergère sont accompagnées de l'enseignement de plusieurs femmes. Elle 
+
+
 
 *Nous le mangerons* est un film qui nous place face à la mort. La mort donnée, la mort raisonnée, la mort apprise. Elle est montrée telle un outil de subsistance, de pouvoir sur et de fondement d'humanité. Prise à *minima*, elle nous apprendrait plus sur ce que nous sommes et la position que nous accaparons que son usuelle dé-responsabilisation et invisibilisation sociale. 
-
-*Nous le mangerons* suit l'initiation d'une bergère à l'auto-abattage. Elle souhaite être capable de mettre à mort et d'exploiter elle-même ses bêtes, et nous emporte dans les différents rituels qui lui permettrons d'atteindre ce but.
-
-
-Le film nous plonge dans la quête d'une bergère : celle d'abattre elle-même ses bêtes. 
-Il interroge la place de la mort dans nos communautés et nos manières de la donner, explore les tréfonds émotionnels et transformatifs du *post-mortem* et s'en présente comme un journal intime, l'initiation par la *praxis* de ce souhait d'autonomie.
-
-Le film est une série de différentes scènes liées à la mort. Une naissance échouée, un orphelin, un accident, la maladie, un mouton noir. Chacune est l'occasion d'un apprentissage pour la bergère dont elle fait le commentaire en intertitres – seuls ponts narratifs qui maintiennent la cohérence du film. Chacune argumente son périple, son initiation à une mystique Artémisienne, aboutie en une seconde naissance, et sa capacité complétée de perpétuer son troupeau.
 
 Deux scènes fonctionnellement différentes ponctues ce voyage mortifère et donnent des clés de lecture. Après l'accident et l'abattage d'urgence, une vétérinaire fait l'autopsie de la bête et informe la bergère sur la santé de son troupeau. Elle s'émerveille de la vie qui surgit de la carcasse, des vers, des parasites, des necrophages. Une autre, la bergère et des convives mangent une bête qu'elle tua puis prépara plus tôt. Elles illustrent le propos fonfamental du film, qui est l'acceptation, et la re-appropriaton de la mort donnée pour faire vie.
 
