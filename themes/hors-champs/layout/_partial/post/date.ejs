@@ -4,9 +4,9 @@
         <time datetime="<%= date_xml(post.filmDate) %>"><%= date(post.filmDate, config.date_format) %></time>
       <% } else { %>
         <% if (is_home() && theme.posts_overview.sort_updated || is_archive() && theme.archive.sort_updated ) { %>
-          <time datetime="<%= date_xml(post.filmDate) %>"><%= date(post.filmDate, config.date_format) %></time>
+          <time datetime="<%- post.filmDate %>"><%- post.filmDate %></time>
         <% } else { %>
-          <time datetime="<%= date_xml(post.filmDate) %>"><%= date(post.filmDate, config.date_format) %></time>
+          <time datetime="<%- post.filmDate %>"><%- post.filmDate %></time>
         <% } %>
       <% } %>
     </div>
