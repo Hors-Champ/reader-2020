@@ -1,9 +1,10 @@
 ---
-title: La Jungle de Dunkerque (le voyage d'un réfugié vers Londres) 
+title: La Jungle de Dunkerque 
 type: Article 
 author: marie clément
 real: Payam Maleki Mieighani
-Date: 2020
+subtitle: le voyage d'un réfugié vers Londres
+filmDate: 2020
 ---
 
 # L'endurance du désir
