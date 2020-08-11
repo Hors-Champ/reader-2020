@@ -1,5 +1,5 @@
 ***La beauté convulsive*** 
-==
+
 
 Le film de Payam Maleki sur le parcours d’un migrant iranien vers Londres commence par un geste. Un geste de cinéma : renverser l’image de téléphone portable pour offrir au jeune Ahmad un regard cinématographique sur sa vie. Payam Maleki s’engage alors tout entier dans cette aventure d’errance et de désastre, pour ouvrir une brèche dans la présentation trop maîtrisée du jeune homme. Par sa force esthétique, _La Jungle de Dunkerque_ lutte contre la communication à l’ère d’internet et la violence que notre monde fait aux hommes.  En suivant subtilement le désir mis à mal de ces migrants, Payam Maleki offre une forme d’expérience de vie au spectateur.ice et peut-être un baume pour ces vies blessées.
 
