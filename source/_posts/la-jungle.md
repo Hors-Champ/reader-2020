@@ -9,6 +9,7 @@ filmDate: 2020
 
 # L'endurance du désir
 
+
 Le film de Payam Maleki sur le _“voyage d’un réfugié”_ iranien _“vers Londres”_ commence par un geste. Un geste de cinéma : renverser l’image de téléphone portable pour offrir au jeune Ahmad un regard cinématographique. Le film s’ouvre sur la présentation de la situation : lassitude d’Ahmad à la frontière de la Macédoine. Il galère dans la boue, en compagnie entre autres de son ami Reza. La télévision est là, qui prend des plans, qui, sûrement, informe. Une productrice est là aussi, qu’il insulte en passant. C’est sa manière de parler, à Ahmad. Et pas seulement aux femmes. Ces images qu’il prend lui-même sont adressées aux Iraniens qui auraient encore l’idée de partir. L’exil, c’est s’en prendre plein le cul ; et on lui tient l’appareil pour qu’il puisse montrer la fente à la couture de son pantalon. Histoire ordinaire d’un migrant... peut-être, sûrement... comment autrement ? Mais pourtant, le ton frappe d’emblée. La liberté de propos, l’adresse, le rapport au corps disent quelque chose de plus que ce qu’il énonce. Payam Maleki s’engage alors tout entier dans cette aventure d’errance et de désastre, pour ouvrir une brèche dans la présentation que le jeune homme fait de son parcours. 
 
 
