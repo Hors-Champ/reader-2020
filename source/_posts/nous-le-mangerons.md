@@ -8,7 +8,7 @@ real: Elsa Maury
 filmDate: 2020
 type: Article
 ---
-![](DT6700.jpg)
+![](nous-la-mangerons.jpg)
 
 # Du sang, fluide, fertile et chaud
 
