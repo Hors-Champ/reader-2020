@@ -7,7 +7,7 @@ Le *reader* fonctionne grâce au générateur de site internet statique [Hexo](h
 #### Liens utiles
 - Le [framapad](https://mensuel.framapad.org/p/30isjvekmk-9hv2?lang=fr)
 - La [feuille de triche](https://github.com/wizhou/hors-champs/wiki/Feuille-de-triche---Markdown) du Markdown
-- Le [reader](https://wizhou.github.io/hors-champs/)
+- Le reader <http://horschamp.lussasdoc.org/>
 
 ## Premiers pas
 
@@ -46,6 +46,7 @@ date: la date de publication au format YYYY-MM-DD
 type: Le type de l'article (Article | Entretient | Humeur)
 author: L'auteurice de l'article.
 real: Le ou la ou les réalisateurices de l'article.
+filmDate: L'année de sortie du film
 ---
 ~~~~
 
@@ -58,6 +59,7 @@ date: 2019-08-20
 type: Article
 author: Julien Baroghel
 real: Nader S. Ayach
+filmDate: 2019
 ---
 ~~~~
 
