@@ -25,4 +25,4 @@ Un pas de côté, dans un abattoir, une employée enseigne à la bergère les bo
 Romain Gœtz
 
 ----
-Image : Leaf from a Beatus Manuscript: the Lamb at the Foot of the Cross, Flanked by Two Angels; The Calling of Saint John with the Enthroned Christ flanked by Angels and a Man Holding a Book • 1180 • Purchase, The Cloisters Collection, Rogers and Harris Brisbane Dick Funds, and Joseph Pulitzer Bequest, 1991
+*Image : Leaf from a Beatus Manuscript: the Lamb at the Foot of the Cross, Flanked by Two Angels; The Calling of Saint John with the Enthroned Christ flanked by Angels and a Man Holding a Book • 1180 • Purchase, The Cloisters Collection, Rogers and Harris Brisbane Dick Funds, and Joseph Pulitzer Bequest, 1991*
