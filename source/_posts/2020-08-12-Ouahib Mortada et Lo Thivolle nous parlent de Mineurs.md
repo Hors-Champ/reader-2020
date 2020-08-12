@@ -6,22 +6,20 @@ real: Ouahib Mortada et Lo Thivolle
 
 
 
-2019
+
+__GR__ **Le film *Mineurs* a été réalisé au sein du collectif *Numéro Zéro*. Quel sens donnez-vous à ce choix ?**
 
 
-**Votre film, *Mineurs* a été réalisé au sein du collectif *Numéro Zéro*. Quel sens donnez-vous à ce choix ?**
+__LT__ Quand nous nous sommes rencontré avec Caroline Beuret et Ouahib Mortada, en 2008, Ouahib portait seul le projet du Polygone étoilé, ce cinéma international de quartier situé à La Joliette à Marseille. Nous n'avions pas fait d'école, et il nous était nécessaire d'apprendre en faisant, auprès de gens qui avaient une certaine expérience mais surtout avec qui nous avions des affinités, Jérémy Gravayat et David Yon. Quelque chose de collectif s'est mis en place. Depuis, au Polygone étoilé, nous proposons des ateliers, des projections et des résidences. *Numéro Zéro* est à notre image, il nous permet de défendre l'autoproduction et *Dérives.tv* l'autodiffusion.
 
 
-__LT__ Quand on s'est rencontré avec Caroline Beuret et Ouahib Mortada, en 2008, Ouahib portait tout seul le projet du Polygone étoilé, ce cinéma international de quartier situé à La Joliette à Marseille. Nous n'avions pas fait d'école, et il nous était nécessaire d'apprendre en faisant, auprès de gens qui avaient une certaine expérience mais surtout avec qui nous avions des affinités, Jérémy Gravayat et David Yon. Quelque chose de collectif s'est mis en place. Depuis, au Polygone étoilé, nous proposons des ateliers, des projections et des résidences. *Numéro Zéro* est à notre image, il nous permet de défendre l'autoproduction et *Dérives.tv* l'autodiffusion.
+__OM__ On ne peut pas être à tous les endroits de la chaîne. Je suis auteur du film ; Lo et Caroline m'ont accompagné toutes ces années pour que je reste fidèle à mon idée de départ. Les premières images datent de 2004. J'ai montré certaines de ces *rushes* au Polygone étoilé. Je traduisais au fur et à mesure en français ce qui se disait en arabe, pour que le public comprenne ce qui se tramait dans chaque séquence. J'ai continué à filmer jusqu'en 2009. En 2016, nous avons eu une bourse pour une résidence de montage à Béjaïa. Caroline et moi avons repris cet accompagnement des images par ma voix, ce passage entre l'arabe et le français. Cette première mouture du montage m'a convaincu de porter mon choix sur l'arabe dans la voix off. 
 
 
-__OM__ C'est simple, on ne peut pas être à tous les endroits de la chaîne. Je suis auteur du film ; Lolo et Caro m'ont accompagné toutes ces années pour que je reste fidèle au projet du début. Les premières images datent de 2004. On est passé par plusieurs étapes : j'ai montré des rushes au Polygone étoilé, et je traduisais au fur et à mesure en français ce qui se disait à l'image en arabe, pour que le public comprenne ce qui se tramait dans chaque séquence. J'ai continué à filmer jusqu'en 2009. En 2016, nous avons eu une bourse pour une résidence de montage à Béjaïa. Caroline et moi avons travaillé cet accompagnement des images par ma voix, et le passage entre l'arabe et le français qui existe déjà dans les rushes. Cette première mouture a permis de trouver la voix off en arabe. 
+**Cette voix off chemine côte à côte avec l’image, pour évoquer un mouvement incessant de recherche et de retours - un retour dans votre enfance, vos retours à Jerada… La langue marocaine porte toute une histoire, un imaginaire. Le choix de passer par le conte correspond-il à des références artistiques spécifiques ?**
 
 
-**La voix off que vous écrivez à la première personne chemine côte à côte avec l’image, pour évoquer un mouvement incessant de recherche et de retours - un retour à Jerada dans votre enfance, vos retours de cinéastes en 2005, en 2010… Elle met en valeur la langue arabe (marocaine) et son histoire, son imaginaire. Le choix de passer par le conte correspond-il à des références artistiques spécifiques ?**
-
-
-__OM__ Comme Tarek Sami et d'autres cinéastes, je dois travailler ma langue d'origine pour qu'elle parle autant à des francophones qu'aux arabophones. La langue est une frontière solide. Il suffit d'un mot mal placé pour que moi, marocain, je parle une langue qu'un·e algérien·ne ne va plus comprendre. Le conte est la forme d'art qui a depuis toujours permis aux gens de se rassembler, même s'ils parlaient des dialectes différents. Avec sa manière de se jouer de la langue, le conteur va trouver le moyen de se faire comprendre. Pour traduire les émotions que l'on a en traversant ce village, même si chaque génération dit des choses différentes, le conte parle à tout le monde, et les générations s'accordent. 
+__OM__ La langue est une frontière solide. Comme Tarek Sami [réalisateur de _Chantier A_] et d'autres cinéastes, je dois travailler ma langue d'origine pour qu'elle parle autant à des francophones qu'à des arabophones. Un mot mal placé peut suffire pour que moi, le marocain, je ne parle plus la même langue qu'un·e algérien·ne. Depuis longtemps, le conte a permis aux gens de se rassembler, même s'ils parlaient des dialectes différents. Avec sa manière de se jouer de la langue, le conteur va trouver le moyen de se faire comprendre. Pour traduire les émotions que l'on a en traversant ce village, même si chaque génération dit des choses différentes, le conte parle à tout le monde, et les générations s'accordent. 
 
 __LT__ Dans tout conte, il y a un fondement réel, qui permet de revenir au tout début de notre histoire. Le mythe de Ben Nes Nes, qui faisait peur à Ouahib enfant, traverse l'inconscient collectif. Lorsque les grands-mères racontent  : "cette montagne est dangereuse, si vous y allez un monstre va mutiler vos bras, vos corps, n'y allez pas" ; ce monstre n'existe pas et en même temps, il existe. 
 
