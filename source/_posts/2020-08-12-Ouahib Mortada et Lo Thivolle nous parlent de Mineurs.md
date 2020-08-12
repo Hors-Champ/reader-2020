@@ -1,8 +1,7 @@
-title: Le titre au propre de l'article
-date: la date de publication au format YYYY-MM-DD
-type: Le type de l'article (Article | Entretient | Humeur)
-author: L'auteurice de l'article.
-real: Le ou la ou les réalisateurices de l'article.
+title: La langue est une frontière solide
+type: Entretien
+author: Gaëlle Rilliard
+real: Ouahib Mortada et Lo Thivolle
 ---
 
 
