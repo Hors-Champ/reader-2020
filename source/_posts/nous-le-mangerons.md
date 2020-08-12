@@ -8,7 +8,7 @@ real: Elsa Maury
 filmDate: 2020
 type: Article
 ---
-![](nous-la-mangerons.jpg)
+![](nous-la-mangerons2.jpg)
 
 # Du sang, fluide, fertile et chaud
 
@@ -25,4 +25,6 @@ Un pas de côté, dans un abattoir, une employée enseigne à la bergère les bo
 Romain Gœtz
 
 ----
-*Image : Leaf from a Beatus Manuscript: the Lamb at the Foot of the Cross, Flanked by Two Angels; The Calling of Saint John with the Enthroned Christ flanked by Angels and a Man Holding a Book • 1180 • Purchase, The Cloisters Collection, Rogers and Harris Brisbane Dick Funds, and Joseph Pulitzer Bequest, 1991*
+<!--*Image : Leaf from a Beatus Manuscript: the Lamb at the Foot of the Cross, Flanked by Two Angels; The Calling of Saint John with the Enthroned Christ flanked by Angels and a Man Holding a Book • 1180 • Purchase, The Cloisters Collection, Rogers and Harris Brisbane Dick Funds, and Joseph Pulitzer Bequest, 1991*-->
+
+*Image : Two Recumbent Sheep • Adriaen van de Velde • 1670 • Bequest of Phyllis Massar, 2011*
