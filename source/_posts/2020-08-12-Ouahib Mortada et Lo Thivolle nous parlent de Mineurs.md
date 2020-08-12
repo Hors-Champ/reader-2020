@@ -1,7 +1,7 @@
 title: Mineurs
 type: Entretien
 author: Gaëlle Rilliard
-real: Ouahib Mortada et Lo Thivolle
+real: Ouahib Mortada
 ---
 
 Chapeau [[lien](https://telquel.ma/2018/01/19/revendiquent-les-manifestants-du-hirak-jerada_1576898)]
