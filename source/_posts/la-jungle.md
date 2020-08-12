@@ -39,6 +39,6 @@ Payam est leur hôte, mais il habite aussi le film. Étrange matière que ce fil
 
 Le film se fait ainsi progressivement corps à corps avec les vies blessées, les envies dévoyées par les délires de l’époque. Il cherche à faire la part belle aux récits, aux histoires d’amour, aux rencontres. Mais c’est fragile. Et la fin du film brutale. Ahmad reprend son leitmotiv : _"Ce sera avec le cul déchiré, si on arrive un jour..._" Dans le dernier plan, la nuit les dévore et les lumières crues sont celles des phares d’une camionnette de nettoyage… _Cut_ sec et l’image est à nouveau celle du téléphone portable. Il a fini par arriver.
 
-
+Marie Clément
 
 
