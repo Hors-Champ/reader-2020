@@ -6,7 +6,6 @@ real: Ouahib Mortada
 
 Chapeau [[lien](https://telquel.ma/2018/01/19/revendiquent-les-manifestants-du-hirak-jerada_1576898)]
 
-
 ##"Pour ne pas faire d'amalgame avec le journalisme, j'ai mis de ma peau dans le montage."
 
 ##"j'ai risqué ma peau au montage."
