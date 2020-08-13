@@ -7,7 +7,9 @@ real: Ouahib Mortada
 Chapeau [[lien](https://telquel.ma/2018/01/19/revendiquent-les-manifestants-du-hirak-jerada_1576898)]
 
 
-#La langue est une frontière solide
+##"Pour ne pas faire d'amalgame avec le journalisme, j'ai mis de ma peau dans le montage."
+
+##"j'ai risqué ma peau au montage."
 
 __GR__ **Le film *Mineurs* a été réalisé au sein du collectif *Numéro Zéro*. Quel sens donnez-vous à ce choix ?**
 
@@ -20,19 +22,19 @@ __OM__ On ne peut pas être à tous les endroits de la chaîne. Je suis auteur d
 
 **Votre langue marocaine chemine côte à côte avec l’image, pour évoquer un mouvement incessant de recherche et de retours - un retour dans votre enfance, vos retours à Jerada… Elle porte une histoire, un imaginaire. Le choix de passer par le conte correspond-il à des références artistiques spécifiques ?**
 
-__OM__ La langue est une frontière solide. Comme Tarek Sami [réalisateur de _Chantier A_] et d'autres cinéastes, je dois travailler ma langue d'origine pour qu'elle parle autant à des francophones qu'à des arabophones. Un mot mal placé peut suffire pour que moi, le marocain, je ne parle plus la même langue qu'un·e algérien·ne. Au contraire, le conte a permis depuis longtemps aux gens de se rassembler, même s'ils parlaient des dialectes différents. En se jouant de la langue, le conteur trouve le moyen de se faire comprendre. Pour traduire les émotions que l'on a en traversant ce village, même si chaque génération dit des choses différentes, le conte parle à tout le monde, et les générations s'accordent. 
+__OM__ La langue est une frontière solide. Comme Tarek Sami, réalisateur de *Chantier A* (2013) et d'autres cinéastes, je dois travailler ma langue d'origine pour qu'elle parle autant à des francophones qu'à des arabophones. Un mot mal placé peut suffire pour que moi, le marocain, je ne parle plus la même langue qu'un·e algérien·ne. Au contraire, le conte a permis depuis longtemps aux gens de se rassembler, même s'ils parlaient des dialectes différents. En se jouant de la langue, le conteur trouve le moyen de se faire comprendre. Pour traduire les émotions que l'on a en traversant ce village, même si chaque génération dit des choses différentes, le conte parle à tout le monde, et les générations s'accordent. 
 
 __LT__ Dans tout conte, il y a un fondement réel, qui permet de revenir au tout début de notre histoire. Le mythe de Ben-Nes-Nes, qui faisait peur à Ouahib enfant, traverse l'inconscient collectif. Lorsque les grands-mères racontent  : "cette montagne est dangereuse, si vous y allez un monstre va mutiler vos bras, vos corps, n'y allez pas" ; ce monstre n'existe pas et en même temps, il existe. 
 
 **Expressionniste, _Mineurs_ permet de ressentir la dureté d’ « aller au charbon ». L’image fortement contrastée, parfois en faible définition, tremble, saute, comme si elle subissait la chaleur, la poussière, les sursauts de la terre. Comment ce choix est né ?**
 
-__LT__ Caroline et moi avons été attrapé par cette rugosité de l'image, par ces moments tremblants. Cela racontait tout ! Ouahib filme librement, sans formatage, il vit ce qu'il filme : la peur de filmer les mineurs, la complexité de les filmer… Il était délicat de monter en respectant ce geste très brut, très vivant tout en le poussant encore plus loin. Ça a été le travail de Caroline et Ouahib. C'est l'avantage de monter sans avoir fait d'école ; elle monte avec ses viscères comme Ouahib tourne avec ses viscères. 
+__LT__ Caroline et moi avons été attrapé par cette rugosité de l'image, par ces moments tremblants. Cela racontait tout ! Ouahib filme librement, sans formatage, il vit ce qu'il filme : la peur de filmer les mineurs, la complexité de les filmer… Il était délicat de monter en respectant ce geste très brut, très vivant tout en le poussant encore plus loin. Ça a été le travail de Caroline et Ouahib. C'est l'avantage de de pas avoir fait d'école ; elle monte avec ses viscères comme Ouahib tourne avec ses viscères. 
 
 __OM__ Ce tremblé, ce n'est pas du cadrage de cinéma ! Cela ne me plaisait pas de le garder. C'était un moment très tendu du montage. Je voulais raconter par des cadres bien posés ; mais là, le montage dévoile quelque chose plus qu'il ne raconte. J'ai dû donner cette liberté à Caroline, accepter de ne pas me censurer. 
 
-J'avais peur, car je filmais sans aucune autorisation, or ces sites sont surveillés par une sorte de mafia. Les mineurs avaient besoin de se livrer et je ressentais beaucoup de joie à pouvoir les filmer, alors je ne coupais jamais la caméra. Avant la fermeture de la mine officielle, la loi travail n'autorisait pas le travail des enfants, mais aujourd'hui certains travaillent à partir de 12 ans. Je filmais comme un super-reporter, mais pour ne pas faire d'amalgame entre documentaire et journalisme, j'ai mis de ma peau dans le montage.
+J'avais peur, car je filmais sans aucune autorisation, or ces sites sont surveillés par une sorte de mafia. Les mineurs avaient besoin de se livrer et je ressentais beaucoup de joie à pouvoir les filmer, alors je ne coupais jamais la caméra. Avant la fermeture de la mine officielle, la loi travail n'autorisait pas le travail des enfants, mais aujourd'hui certains travaillent à partir de 12 ans. Je filmais comme un super-reporter, mais pour ne pas faire d'amalgame avec le journalisme, j'ai mis de ma peau dans le montage.
 
-__LT__ Ce long travail nous a fait comprendre que certaines matières ne pouvaient pas exister dans le film. Par exemple, quand Ouahib filmait [l'amicale des anciens de Jerada](https://anciens-de-jerada.monsite-orange.fr), qui permet aux personnes qui y ont vécu jusqu'à 1969 de se retrouver, sa caméra ne tremblait plus. Nous avons compris que ces images appartenaient à une autre histoire. 
+__LT__ Ce long travail nous a fait comprendre que certaines matières ne pouvaient pas exister dans le film. Par exemple, quand Ouahib filmait [l'amicale des anciens de Jerada](https://anciens-de-jerada.monsite-orange.fr), qui permet aux personnes qui y ont vécu jusqu'à l'indépendance de se retrouver, sa caméra ne tremblait plus. Nous avons compris que ces images appartenaient à une autre histoire. 
 
 __OM__ Je ne suis pas un membre actif de l'amicale de Jerada. J'ai filmé leurs réunions et je pense que ces images vont trouver leur place plus tard. Je collectionne les récits en provenance de confessions différentes, d'origines différentes. Il existe par exemple un roman très humaniste, le récit d'un colonel fils d'un mécanicien de la mine, intitulé *Djerada* avec un D - le nom de la ville avant 1932. J'ai pensé *Mineurs* comme le premier volet d'un triptyque qui irait jusqu'à la fin des descenderies. Ce film sensibilise le public à cette situation, cela nous donne le courage de continuer à prospecter. 
 
