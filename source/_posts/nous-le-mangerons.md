@@ -10,6 +10,8 @@ type: Article
 ---
 ![](nous-la-mangerons6.jpg)
 
+*Ce texte est rédigé en employant le genre grammatical féminin comme générique.*
+
 # Du sang, fluide, fertile et chaud
 
 *Nous la mangerons* nous plonge dans la quête d'une bergère : celle d'abattre elle-même ses bêtes. Le film la suit dans les rites qui lui permettront d'atteindre ce but. Un apprentissage que constituent différents travaux morturaires, autant de facettes que revêt la mort au sein d'un élevage. Chacun aura pour conséquence la tuerie qui lui incombe, chacun sera l'occasion d'apprendre un peu mieux à tuer, un peu mieux à équarrir, de se rapprocher de son objectif. Un souhait d'auto-abattage pour la bergère, qui est à contre-courant de la législation de l'élevage — l'abattoir est imposé comme seul lieu apte à fournir une mort consommable — et des considérations pastorales — qui dépeindraient les plaisirs d'une vie agreste en campagne. L'enjeu est de sortir la mort de l'abattoir, de ne plus la reléguer à cette intendance autoritaire, à cette industrie déshumanisée. C'est contrecarrer son artifice, cette violence industrielle du massacre sanglant, ce lieu où prend vie la transsubstantiation de l'animal en produit, cette frontière farouchement légiférée à laquelle notre société octroie le droit de fabriquer de la consommation à partir du vivant.
