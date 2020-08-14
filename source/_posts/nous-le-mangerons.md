@@ -8,7 +8,7 @@ real: Elsa Maury
 filmDate: 2020
 type: Article
 ---
-*Ce texte est rédigé en employant le genre grammatical féminin comme générique.*
+*Dans ce texte, les termes génériques ont été mis au féminin.*
 
 ![](nous-la-mangerons6.jpg)
 
