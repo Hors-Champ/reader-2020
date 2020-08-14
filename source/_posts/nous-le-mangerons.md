@@ -8,6 +8,8 @@ real: Elsa Maury
 filmDate: 2020
 type: Article
 ---
+![](DP822830 copie.jpg)
+
 # Du sang, fluide, fertile et chaud
 
 *Nous la mangerons* nous plonge dans la quête d'une bergère : celle d'abattre elle-même ses bêtes. Le film la suit dans les rites qui lui permettront d'atteindre ce but, un apprentissage à travers différents travaux mortuaires, autant de facettes que revêt la mort au sein d'un élevage. Chacun sera conséquence d'une tuerie qui lui incombe, chacun sera l'occasion d'apprendre un peu mieux à tuer, un peu mieux à équarrir, de se rapprocher de son objectif. Un souhait d'auto-abattage pour la bergère, qui est à contre-courant de la législation de l'élevage — l'abattoir est imposé comme seul lieu apte à fournir une mort consommable — et de considérations pastorales — qui dépendraient les plaisir d'une vie agreste en campagne. L'enjeu est de sortir la mort de l'abattoir, de ne plus la reléguer à cette intendance autoritaire, à cette industrie déshumanisée. C'est contrecarrer son artifice, cette violence industrielle du massacre sanglant, ce lieu où prend vie la transsubstantiation de l'animal au produit, cette frontière farouchement légiférée à laquelle notre société octroie le droit de fabriquer de la consommation à partir du vivant.
