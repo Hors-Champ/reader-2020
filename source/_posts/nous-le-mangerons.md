@@ -8,9 +8,9 @@ real: Elsa Maury
 filmDate: 2020
 type: Article
 ---
-![](nous-la-mangerons6.jpg)
-
 *Ce texte est rédigé en employant le genre grammatical féminin comme générique.*
+
+![](nous-la-mangerons6.jpg)
 
 # Du sang, fluide, fertile et chaud
 
