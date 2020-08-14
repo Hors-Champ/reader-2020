@@ -1,11 +1,13 @@
 ---
-title: La Jungle de Dunkerque 
-type: Article 
+title: La Jungle de Dunkerque
+type: Article
 author: marie clément
 real: Payam Maleki Mieighani
 subtitle: le voyage d'un réfugié vers Londres
 filmDate: 2020
+published: true
 ---
+![](jungle.jpg)
 
 # L'endurance du désir
 
@@ -39,4 +41,3 @@ Payam est leur hôte, mais il habite aussi le film. Étrange matière que ce fil
 Le film va progressivement au corps à corps avec ces vies meurtries, ces désirs dévoyés par les délires de l’époque. Il cherche à faire la part belle aux récits, aux histoires d’amour, aux rencontres. Mais c’est fragile. Et la fin du film, brutale. Ahmad reprend son leitmotiv : _"Ce sera avec le cul déchiré, si on arrive un jour…_" Dans le dernier plan, la nuit les dévore et les lumières crues sont celles des phares d’une camionnette de nettoyage… _Cut_ sec et l’image est à nouveau celle du téléphone portable. Il a fini par arriver.
 
 Marie Clément
-
