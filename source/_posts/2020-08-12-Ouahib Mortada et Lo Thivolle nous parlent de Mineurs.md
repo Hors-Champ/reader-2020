@@ -1,7 +1,7 @@
-title: Ouahib Mortada et Lo Thivolle nous parlent de *Mineurs*
+title: Ouahib Mortada et Lo Thivolle nous parlent de Mineurs
 type: Entretien
 author: Gaëlle Rilliard
-real: Ouahib Mortada
+
 ---
 
 
