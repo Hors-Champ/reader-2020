@@ -28,7 +28,7 @@ Sortir la mort de son invisible, assumer que nos relations avec l'animal puissen
 
 > «*Je m'en suis occupée jusqu'au bout*».
 
-Dans une scène, une vétérinaire réalise une autopsie sur une bête abattue d'urgence. Par la lecture de ses entrailles, elle renseigne la bergère sur la santé du troupeau, elle s'émerveille de la vie qui surgit, des vers, des parasites, des nécrophages. La scène est colorée et foisonnante, la femme empoigne joyeusement des guirlandes organiques, elle provoque des moments de transmission et d'émergence du savoir que cherche la bergère, par lequel elle souhaite se transformer : la mort fait vie. Dans l'ouverture, une agnelle morte naît, à la fin du film, nous voyons un nouvel agnellage, fructueux et concluant. Une seconde naissance pour la bergère, la fin du rite ? A-t-elle su accomplir ce qu'elle cherchait ? Apprendre à mettre à mort ? Découvrir les secrets de la mise en viande ?
+Dans une scène, une vétérinaire réalise une autopsie sur une bête abattue d'urgence. Par la lecture de ses viscères, elle renseigne la bergère sur la santé du troupeau, elle s'émerveille de la vie qui surgit, des vers, des parasites, des nécrophages. La scène est colorée et foisonnante, la femme empoigne joyeusement des guirlandes organiques, elle provoque des moments de transmission et d'émergence du savoir que cherche la bergère, par lequel elle souhaite se transformer : la mort fait vie. Dans l'ouverture, une agnelle morte naît, à la fin du film, nous voyons un nouvel agnellage, fructueux et concluant. Une seconde naissance pour la bergère, la fin du rite ? A-t-elle su accomplir ce qu'elle cherchait ? Apprendre à mettre à mort ? Découvrir les secrets de la mise en viande ?
 
 Romain Gœtz
 
