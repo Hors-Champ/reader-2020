@@ -1,9 +1,9 @@
 ---
 title: 'Federico Rossin parle d''Histoire des formes '
 type: Entretien
-author: alix tulipe
-real: Federico Rossin
-subtitle: Federico Rossin nous parle d'Histoire des formes
+author: Alix Tulipe
+real: null
+subtitle: Federico Rossin parle d'Histoire des formes
 filmDate: 2020
 published: true
 ---
@@ -111,4 +111,4 @@ Bien sûr, le plaisir est important. Il y a une jouissance qui provient du ciné
 Alors, cette année, le vrai défi est que je ne serai pas là. J’ai réalisé des enregistrements pour accompagner les séances, mais je ne serai pas présent, ni pour répondre, ni pour défendre, ni pour partager. C’est une souffrance, mais c’est aussi un miroir de la situation actuelle, qui provoque des trous, des manques, de virulentes absences. Ne pas assumer cette rupture historique, en organisant par exemple un débat en ligne avec trois spectateurs, ne serait pas à la hauteur de ce qu’il se passe, comme de ce qu’il s’est passé. Je préfère nettement que les séances soient condensées et puissantes, qu’elles arrivent directement au spectateur, même sans médiation. Et puis, j’ai écrit cet édito assez court, que je pense assez aigu pour rendre lisible ce manque, et surtout ne pas le combler.
 
 
-_Propos recueillis par Alix Tulipe, mardi 11 août 2020._ 
+_Propos recueillis par Alix Tulipe, mardi 11 août 2020._
