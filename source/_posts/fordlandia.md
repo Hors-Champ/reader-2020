@@ -3,7 +3,7 @@ title: Fordlandia
 date: 2020-08-14
 type: Article
 author: Lola-Lý Canac 
-real: Susana de Sousas Dias
+real: Susana de Sousa Dias
 filmDate: 2019
 ---
 
