@@ -40,7 +40,7 @@ Georges Didi-Huberman, _Survivance des lucioles_
 
 
 
-Le film va progressivement au corps-à-corps avec ces vies meurtries, ces désirs dévoyés par les délires de l’époque. Il cherche à attraper les sentiments, susciter des rencontres. Mais c’est fragile. Et la fin du film, brutale. Ahmad reprend son leitmotiv : _"Ce sera avec le cul déchiré, si on arrive un jour…_" Dans le dernier plan, la nuit les dévore et les lumières crues sont celles des phares d’une camionnette de nettoyage. _Cut_ sec, et l’image est à nouveau celle du téléphone portable. Il a fini par arriver.
+Le film va progressivement au corps-à-corps avec ces vies meurtries, ces désirs dévoyés par les délires de l’époque. Il cherche à attraper les sentiments, susciter des rencontres. Mais c’est fragile. Et la fin du film, brutale. Ahmad reprend son leitmotiv : _"Ce sera avec le cul déchiré, si on arrive un jour…_" La nuit les dévore et les lumières crues sont celles des phares d’une camionnette de nettoyage. _Cut_ sec, et l’image est à nouveau celle du téléphone portable : il a fini par arriver.
 
 Marie Clément
 
