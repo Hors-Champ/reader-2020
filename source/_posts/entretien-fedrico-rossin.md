@@ -109,3 +109,6 @@ Si cela a lieu, c’est à mon sens parce que chaque opération que je fais vise
 
 Bien sûr, le plaisir est important. Il y a une jouissance qui provient du cinéma et en même temps les choses sont mises à distance. C’est exactement cela, le regard de l’historien. Faire avec le cerveau m’intéresse bien plus que de faire avec ses tripes. Utiliser ses tripes, pour moi, ce n’est pas démocratique, c’est même très risqué. On peut arriver à une joie cinéphile avec le cerveau et le coeur ensemble.  
 Alors, cette année, le vrai défi est que je ne serai pas là. J’ai réalisé des enregistrements pour accompagner les séances, mais je ne serai pas présent, ni pour répondre, ni pour défendre, ni pour partager. C’est une souffrance, mais c’est aussi un miroir de la situation actuelle, qui provoque des trous, des manques, de virulentes absences. Ne pas assumer cette rupture historique, en organisant par exemple un débat en ligne avec trois spectateurs, ne serait pas à la hauteur de ce qu’il se passe, comme de ce qu’il s’est passé. Je préfère nettement que les séances soient condensées et puissantes, qu’elles arrivent directement au spectateur, même sans médiation. Et puis, j’ai écrit cet édito assez court, que je pense assez aigu pour rendre lisible ce manque, et surtout ne pas le combler.
+
+
+_Propos recueillis par Alix Tulipe, mardi 11 août 2020._ 
