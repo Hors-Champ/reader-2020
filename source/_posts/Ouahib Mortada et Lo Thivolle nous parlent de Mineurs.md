@@ -1,9 +1,12 @@
+
+
+---
 title: Ouahib Mortada et Lo Thivolle nous parlent de Mineurs
-
 type: Entretien
-
 author: Gaëlle Rilliard
-
+real: Ouahib Mortada
+filmDate: 2020
+---
 
 ![Beaute_vue_de_haut.jpg]({{site.baseurl}}/source/_posts/Beaute_vue_de_haut.jpg)
 
