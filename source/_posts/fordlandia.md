@@ -1,5 +1,5 @@
 ---
-title: Fordlandia
+title: Fordlandia Malaise
 date: 2020-08-14
 type: Article
 author: Lola-Lý Canac 
