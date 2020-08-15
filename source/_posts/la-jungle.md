@@ -22,7 +22,7 @@ Car Ahmad ne cesse de prendre la parole : il conseille sur le pays le plus propr
 > Voilà ce que je cherche : réjouissance et festivité.  
 Picoler, fumer des cigarettes, faire la fête.
 
-Alors Payam Maleki cherche lui patiemment à entendre autre chose que des propos dictés par la voix du monde contemporain. La première remarque qu'Ahmad fait à Payam est qu’il ne sert à rien de perdre son temps à faire un _“navet”_, qu’il lui faudrait de l’argent. Une des dernières, de filmer en Full HD. Il semble ne connaître que les réseaux sociaux et les médias ; sa façon de se présenter s'adapte à leurs clichés. 
+Payam Maleki cherche lui patiemment à entendre autre chose que des propos dictés par la voix du monde contemporain. La première remarque qu'Ahmad fait à Payam est qu’il ne sert à rien de perdre son temps à faire un _“navet”_, qu’il lui faudrait de l’argent. Une des dernières, de filmer en Full HD. Il semble ne connaître que les réseaux sociaux et les médias ; sa façon de se présenter s'adapte à leurs clichés. 
 Dans la durée du film, on sentira combien ses propos sur son _“manque de chatte”_ et sur _“sa bite"_ en berne disent l’amoindrissement du désir. L’exil est mouvement, recherche d'autres choses, une tension vers l’autre. Du désir en acte. Mais dans cette quête d'Eldorado, sa boussole s'est affolée. Pour Payam Maleki, comme jadis pour Pasolini, ce désir est malade, vicié par une volonté de puissance et de satisfaction consuméristes. Il se mue en chancre qui creuse, en vide qui mine tout. Corps et cœur amoindris, blessés tout ensemble. Car Payam Maleki file avec pudeur le motif du sexe blessé.  _“Scène de sexe avec Ahmad !”_ : dans la chambre, les trois garçons s’amusent de ce qu'il leur devra s’il passe en Angleterre. Mais  Ahmad ne leur répond pas. Il est parti dans une autre région du sentiment. Il écoute une chanson d’Azerbaïdjan, la beauté d'un chant d’amour porté par une voix de femme. Les chansons qu’ils serinent, celles qu’ils écoutent sont des romances faites des mots qui leur manquent. 
 > L’oiseau qui est mon cœur ne peut plus chanter par jalousie  
 Ne sait plus sur quelle branche se poser.
@@ -39,7 +39,7 @@ Payam est leur hôte, mais il habite aussi le film. Étrange matière que ce fil
 
 
 
-Le film va progressivement au corps-à-corps avec ces vies meurtries, ces désirs dévoyés par les délires de l’époque. Il cherche à faire la part belle aux récits, aux histoires d’amour, aux rencontres. Mais c’est fragile. Et la fin du film, brutale. Ahmad reprend son leitmotiv : _"Ce sera avec le cul déchiré, si on arrive un jour…_" Dans le dernier plan, la nuit les dévore et les lumières crues sont celles des phares d’une camionnette de nettoyage. Cut sec et l’image est à nouveau celle du téléphone portable. Il a fini par arriver.
+Le film va progressivement au corps-à-corps avec ces vies meurtries, ces désirs dévoyés par les délires de l’époque. Il cherche à attraper les sentiments, susciter des rencontres. Mais c’est fragile. Et la fin du film, brutale. Ahmad reprend son leitmotiv : _"Ce sera avec le cul déchiré, si on arrive un jour…_" Dans le dernier plan, la nuit les dévore et les lumières crues sont celles des phares d’une camionnette de nettoyage. Cut sec et l’image est à nouveau celle du téléphone portable. Il a fini par arriver.
 
 Marie Clément
 
