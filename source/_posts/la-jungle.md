@@ -31,7 +31,7 @@ Dans la durée du film, on sentira combien ses propos sur son “manque de chatt
 Ne sait plus sur quelle branche se poser.
 
 
-Ils sont, ne leur déplaise, comme ce voisin sourd et muet qu’ils rejettent violemment, incapables de formuler de quoi nouer un lien. Quand Ahmad évoque l’Iran, il parle des relations amoureuses que ce pays rend impossibles. Après un geste grivois, il se prend à dire : _"Ça me saoule, je n’étais pas comme ça avant”_. Les propos crus sur ses démangeaisons génitales sont repris de séquence en séquence, mais Payam Maleki file avec pudeur le motif du sexe blessé. Il parvient à rendre poignant le plan le plus obscène du film. Quelque chose de sublime est mis à nu : la confiance que le jeune homme accorde enfin au cinéaste. L’espoir d’une relation véritable possible au delà de l’exposition médiatique. On comprend pourquoi Payam Maleki cite Pasolini au seuil de son film :
+Ils sont, ne leur déplaise, comme ce voisin sourd et muet qu’ils rejettent violemment, incapables de formuler de quoi nouer un lien. Quand Ahmad évoque l’Iran, il parle des relations amoureuses que ce pays rend impossibles. Après un geste grivois, il se prend à dire : "Ça me saoule, je n’étais pas comme ça avant”. Les propos crus sur ses démangeaisons génitales sont repris de séquence en séquence, mais Payam Maleki file avec pudeur le motif du sexe blessé. Il parvient à rendre poignant le plan le plus obscène du film. Quelque chose de sublime est mis à nu : la confiance que le jeune homme accorde enfin au cinéaste. L’espoir d’une relation véritable possible au delà de l’exposition médiatique. On comprend pourquoi Payam Maleki cite Pasolini au seuil de son film :
 > Le cinéma est une explosion de mon amour pour la réalité. 
 
 Son film sera l’expression palpitante de son amour pour ces hommes. Il laisse percevoir des éclats de désirs purs, intimes, encore vierges et intacts. Il existe une part de l’individu que la violence du monde n’a pas atteint. 
@@ -43,7 +43,7 @@ Georges Didi-Huberman, _Survivance des lucioles_
 
 
 
-Le film va progressivement au corps-à-corps avec ces vies meurtries, ces désirs dévoyés par les délires de l’époque. Il cherche à attraper les sentiments, susciter des rencontres. Mais c’est fragile. Et la fin du film, brutale. Ahmad reprend son leitmotiv : _"Ce sera avec le cul déchiré, si on arrive un jour…_" La nuit les dévore et les lumières crues sont celles des phares d’une camionnette de nettoyage. _Cut_ sec, et l’image est à nouveau celle du téléphone portable : il a fini par arriver.
+Le film va progressivement au corps-à-corps avec ces vies meurtries, ces désirs dévoyés par les délires de l’époque. Il cherche à attraper les sentiments, susciter des rencontres. Mais c’est fragile. Et la fin du film, brutale. Ahmad reprend son leitmotiv : "Ce sera avec le cul déchiré, si on arrive un jour…" La nuit les dévore et les lumières crues sont celles des phares d’une camionnette de nettoyage. _Cut_ sec, et l’image est à nouveau celle du téléphone portable : il a fini par arriver.
 
 Marie Clément
 
