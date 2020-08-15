@@ -1,5 +1,3 @@
-
-
 ---
 title: Ouahib Mortada et Lo Thivolle nous parlent de Mineurs
 type: Entretien
@@ -8,11 +6,11 @@ real: Ouahib Mortada
 filmDate: 2020
 ---
 
-![Beaute_vue_de_haut.jpg]({{site.baseurl}}/source/_posts/Beaute_vue_de_haut.jpg)
+![Beaute_vue_de_haut.jpg](Beaute_vue_de_haut.jpg)
 
 
 
-## Un bouquet de fleurs derrière lequel tempête la résistance
+# Un bouquet de fleurs derrière lequel tempête la résistance
 
 
 Le générique achevé, des images reviennent sur l’écran. En pleine nuit, un groupe d’hommes traverse les rues désertes, scandant un hymne à leur ville, Jerada, dominée par sa montagne d’anthracite. Ville sinistrée depuis la fermeture de la mine, condamnée à voir ses enfants risquer leur peau dans des « descenderies » clandestines. Ville où naquit le syndicalisme marocain, où flambe encore la fierté ouvrière. Cette manifestation, repoussée hors du film, pourrait être la signature des mineurs posée aux côtés de celle du réalisateur Ouahib Mortada. Car il n’a cessé de nous faire entendre leur voix, tantôt fustigeant les ministres, tantôt prenant à partie le cinéaste : (guillemets) Va plutôt voir tous ceux qui dorment et se gavent de l’argent de tous ces pauvres. Apostrophe vigoureuse qui exige d’exposer les coupables plutôt que les victimes, de démasquer l’imposture du monstre afin d’y reconnaître nos humaines turpitudes. À ce risque qu’il y a à démêler l’écheveau des responsabilités, à tourner la caméra vers les puissances de nuire, Ouahib Mortada préfère le courage de l’orateur, dont la ‘parole agile transperce l’esprit’, comme un ‘bouquet de fleurs derrière lequel tempête la résistance.’1. 
