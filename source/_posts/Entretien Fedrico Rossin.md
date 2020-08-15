@@ -1,5 +1,5 @@
 ---
-title: 
+title: Histoire des formes 
 type: Entretien
 author: alix tulipe
 real: Federico Rossin
@@ -7,6 +7,9 @@ subtitle: Federico Rossin nous parle d'Histoire des formes
 filmDate: 2020
 published: true
 ---
+
+
+#Histoire des formes
 
 
 >Cette année, Histoire de doc se transforme en Histoire des formes, qu’est-ce que cela a changé dans votre travail ?
