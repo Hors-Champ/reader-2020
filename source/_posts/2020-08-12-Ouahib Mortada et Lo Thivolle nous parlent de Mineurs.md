@@ -5,6 +5,9 @@ author: Gaëlle Rilliard
 ---
 
 
+![Beaute_vue_de_haut.jpg]({{site.baseurl}}/source/_posts/Beaute_vue_de_haut.jpg)
+
+
 
 Un bouquet de fleurs derrière lequel tempête la résistance
 
