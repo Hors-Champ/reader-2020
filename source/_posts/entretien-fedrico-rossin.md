@@ -1,5 +1,5 @@
 ---
-title: Histoire des formes
+title: 'Federico Rossin nous parle d''Histoire des formes '
 type: Entretien
 author: alix tulipe
 real: Federico Rossin
@@ -9,7 +9,7 @@ published: true
 ---
 
 
-# Histoire des formes
+# Federico Rossin nous parle d'Histoire des formes 
 
 
 > Cette année, Histoire de doc se transforme en Histoire des formes. Qu’est-ce que cela a changé dans votre travail ?
