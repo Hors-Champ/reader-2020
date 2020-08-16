@@ -16,7 +16,7 @@ Le générique achevé, des images reviennent sur l’écran. En pleine nuit, un
 
 
 
-Le film *Mineurs* a été réalisé au sein du collectif *Numer0 Zer0*. Pourquoi ce choix ?
+<div class="question">Le film <em>Mineurs</em> a été réalisé au sein du collectif <em>Numer0 Zer0</em>. Pourquoi ce choix ?</div>
 
 
 __Ouahib Mortada__ Si nous avons choisi avec *Numer0 Zer0* de travailler ensemble à faire du cinéma, c’est pour créer d'autres sens. Ce n’est possible qu’en arrêtant de suivre toujours les mêmes chemins. C’est pourquoi ce film qui au départ n'avait aucunement l’intention d’appartenir à un genre ou une forme particulière (enquête, reportage, archive…) est devenu peu à peu un essai. 
