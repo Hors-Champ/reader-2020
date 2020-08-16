@@ -1,11 +1,10 @@
 ---	
 title: Fordlandia Malaise	
-date: {}	
-type: Article	
-author: Lola-Lý Canac	
-real: Susana de Sousa Dias	
-filmDate: 2019	
-published: true	
+type: Article
+author: Lola-Lý Canac
+real: Susana de Sousa Dias
+filmDate: 2019
+published: true
 ---	
 
 ![](fordlandia.jpg)
