@@ -9,7 +9,9 @@ published: true
 ---
 
 
-# Federico Rossin parle d'Histoire des formes 
+# Federico Rossin parle d'Histoire des formes :
+
+"Arriver à une joie cinéphile avec le cerveau et le coeur ensemble"
 
 
 > Cette année, _Histoire de doc_ se transforme en _Histoire des formes_. En quoi cela a-t-il changé votre travail ?
