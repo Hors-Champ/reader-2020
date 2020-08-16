@@ -1,15 +1,16 @@
 ---
 title: Fordlandia Malaise
-date: 2020-08-14
+date: {}
 type: Article
-author: Lola-Lý Canac 
+author: Lola-Lý Canac
 real: Susana de Sousa Dias
 filmDate: 2019
+published: true
 ---
 
 # Drones et colibris
 
-Une greffe d'arbre, une forêt qui brûle. Une date et un lieu indiqués, au milieu d'un diaporama de photos sépia faisant défiler tranquillement des paysages tropicaux, des paysages aux accents piquants de colonie. Des hommes, surtout des hommes ; il y a ceux aux chemises blanches – les ingénieurs de la compagnie Ford – et les autres, aux visages noirs qui s'abîment sous le soleil – les locaux·ale·s, les amérindien·ne·s. Il y a des maisons carrées et bien alignées le long du chemin de terre, des chantiers, des hectares brûlés, et des petits arbres qui poussent en ligne. La première partie de Fordlandia Malaise donne l'impression qu'avant ça, il n'y avait rien, rien que des arbres. Le tapis sonore des insectes et des oiseaux, tout ce fouillis de faune tropicale, se fait parasiter, puis brusquement submerger par la fureur d'une batucada. Le rythme épileptique fait vriller le diaporama, les tambours frappent, entraînant avec eux dans leur dispersement final, ce qu'a été Fordlândia : en 1945, les révoltes ouvrières, la mauvaise gestion et le climat hostile ont fait tomber la ville-usine bâtie en 1928 par Henry Ford. Et l'histoire semblerait s'arrêter là : les archives de la Compagnie Ford ne disent rien de la suite ; il pourrait tout simplement ne pas y en avoir. Rien avant, rien après. 
+Une greffe d'arbre, une forêt qui brûle. Une date et un lieu indiqués, au milieu d'un diaporama de photos sépia faisant défiler tranquillement des paysages tropicaux, des paysages aux accents piquants de colonie. Des hommes, surtout des hommes&nbsp;; il y a ceux aux chemises blanches &mdash;&nbsp;les ingénieurs de la compagnie Ford&nbsp;&mdash; et les autres, aux visages noirs qui s'abîment sous le soleil &mdash;&nbsp;les locaux·ale·s, les amérindien·ne·s. Il y a des maisons carrées et bien alignées le long du chemin de terre, des chantiers, des hectares brûlés, et des petits arbres qui poussent en ligne. La première partie de Fordlandia Malaise donne l'impression qu'avant ça, il n'y avait rien, rien que des arbres. Le tapis sonore des insectes et des oiseaux, tout ce fouillis de faune tropicale, se fait parasiter, puis brusquement submerger par la fureur d'une batucada. Le rythme épileptique fait vriller le diaporama, les tambours frappent, entraînant avec eux dans leur dispersement final, ce qu'a été Fordlândia : en 1945, les révoltes ouvrières, la mauvaise gestion et le climat hostile ont fait tomber la ville-usine bâtie en 1928 par Henry Ford. Et l'histoire semblerait s'arrêter là&nbsp;: les archives de la Compagnie Ford ne disent rien de la suite&nbsp;; il pourrait tout simplement ne pas y en avoir. Rien avant, rien après. 
 
 Pourtant Fordlândia existe encore. Le film de Susana de Sousa Dias extirpe la ville de son passé autant qu'elle l'y confronte. Vision de drone ; l'image impassible et inquisitrice cherche vainement à capturer le moindre mouvement, le moindre geste, l'oiseau au loin, la moto qui passe, dans un noir et blanc qui crève toute vitalité – héritage dérangeant d'une histoire de la surveillance et du contrôle. Que contrôle-t-on alors ? Le fleuve et la forêt, la ville quasi-déserte, une silhouette au loin ? C'est un lent et long voyage au-dessus d'un paysage sans avenir, comme arrêté dans le temps. R.A.S., impuissance. En utilisant le langage de l'image de surveillance, Susana de Sousa Dias illustre son impossibilité à aller à la rencontre, à descendre vers une vie insoupçonnée dans ce qu'on voudrait appeler une ville fantôme.
 
@@ -27,5 +28,4 @@ Dans le vieux cimetière, comme dans l'usine abandonnée, la caméra a fini par 
 
 Les habitant·e·s de Fordlândia n'ont pas besoin d'une voix pour parler à leur place, et Susana de Sousa Dias les laisse parler, elles·eux qui aiment leur terre. Ne pas pointer du doigt, non plus, ni les gens ni les choses, et accepter l'insaisissable. Simplement, faire le constat silencieux que, "au milieu de rien" au nord du Brésil, il y a des personnes pour se rappeler qu'Henry Ford a perdu, que les petits ont mangé les gros, que la nature a gagné. Et cela, si petit et oublié que ce soit, fait partie de la grande histoire. 
 
-Lola-Lý Canac 
-
+Lola-Lý Canac
