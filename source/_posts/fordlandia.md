@@ -1,5 +1,5 @@
 ---
-title: Fordlandia Malaise	
+title: Fordlandia Malaise
 type: Article
 author: Lola-Lý Canac
 real: Susana de Sousa Dias
