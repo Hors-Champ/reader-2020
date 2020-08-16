@@ -1,3 +1,5 @@
+![](fordlandia.jpg)
+
 # Drones et colibris
 
 Une greffe d'arbre, une forêt qui brûle. Une date et un lieu indiqués au milieu d'un diaporama de photos sépia faisant défiler tranquillement des paysages tropicaux, des paysages aux accents piquants de colonie. Des hommes, surtout des hommes&nbsp;&semi; il y a ceux aux chemises blanches &mdash;&nbsp;les ingénieurs de la compagnie Ford&nbsp;&mdash; et les autres, aux visages noirs qui s'abîment sous le soleil &mdash;&nbsp;les locaux&middot;ale&middot;s, les amérindien&middot;ne&middot;s. Il y a des maisons carrées et bien alignées le long du chemin de terre, des chantiers, des hectares brûlés, et des petits arbres qui poussent en ligne. La première partie de *Fordlandia Malaise* donne l'impression qu'avant ça, il n'y avait rien, rien que des arbres. Le tapis sonore des insectes et des oiseaux, tout ce fouillis de faune tropicale, se fait parasiter, puis brusquement submerger par la fureur d'une batucada. Le rythme épileptique fait vriller le diaporama, les tambours frappent, entraînant avec eux dans leur dispersement final, ce qu'a été Fordlândia&nbsp;&colon; en 1945, les révoltes ouvrières, la mauvaise gestion et le climat hostile ont fait tomber la ville&ndash;usine bâtie en 1928 par Henry Ford. Et l'histoire semblerait s'arrêter là&nbsp;&colon; les archives de la Compagnie Ford ne disent rien de la suite&nbsp;&semi; il pourrait tout simplement ne pas y en avoir. Rien avant, rien après.
@@ -19,3 +21,7 @@ Dans le vieux cimetière, comme dans l'usine abandonnée, la caméra a fini par 
 Les habitant&middot;e&middot;s de Fordlândia n'ont pas besoin d'une voix pour parler à leur place, et Susana de Sousa Dias les laisse parler, elles&middot;eux qui aiment leur terre. Ne pas pointer du doigt, non plus, ni les gens ni les choses, et accepter l'insaisissable. Simplement, faire le constat silencieux que, &laquo;&nbsp;au milieu de rien&nbsp;&raquo; au nord du Brésil, il y a des personnes pour se rappeler qu'Henry Ford a perdu, que les petits ont mangé les gros, que la nature a gagné. Et cela, si oublié que ce soit, fait partie de la grande histoire.
 
 Lola-Lý Canac
+
+----
+
+*Image : [Sacred Kingfisher, from Birds of the Tropics series (N38) for Allen & Ginter Cigarettes](https://www.metmuseum.org/art/collection/search/421290) • Issued by Allen & Ginter (American, Richmond, Virginia) • 1889 • The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick
