@@ -5,6 +5,7 @@ author: Lola-Lý Canac
 real: Susana de Sousa Dias
 filmDate: 2019
 published: true
+date: 2020-08-17T00:00:00.000Z
 ---
 
 ![](fordlandia.jpg)
