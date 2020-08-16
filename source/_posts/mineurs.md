@@ -5,7 +5,6 @@ author: Gaëlle Rilliard
 filmDate: 2020
 ---
 
-![Beaute_vue_de_haut.jpg](Beaute_vue_de_haut.jpg)
 
 
 
