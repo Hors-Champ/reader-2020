@@ -24,4 +24,4 @@ Lola-Lý Canac
 
 ----
 
-*Image : [Sacred Kingfisher, from Birds of the Tropics series (N38) for Allen & Ginter Cigarettes](https://www.metmuseum.org/art/collection/search/421290) • Issued by Allen & Ginter (American, Richmond, Virginia) • 1889 • The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick
+*Image : [Sacred Kingfisher, from Birds of the Tropics series (N38) for Allen & Ginter Cigarettes](https://www.metmuseum.org/art/collection/search/421290) • Issued by Allen & Ginter (American, Richmond, Virginia) • 1889 • The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick*
