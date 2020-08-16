@@ -7,6 +7,10 @@
         class_name: 'posttitle'
       }
     ) %>
+    
+    <% if (post.subtitle) { %>
+        <span><%- post.subtitle %></span>
+    <% } %>
     <div class="meta">
       <span class="author">
         <span><% if (page.real) { %><%- page.real %><% } else { %><%- config.title %><% } %></span>
