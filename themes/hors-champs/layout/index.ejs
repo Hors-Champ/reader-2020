@@ -1,7 +1,4 @@
 <section id="writing">
-  <%# Demande suppression du titre sommaire %>
-  <!-- <span class="h1"><a href="<%- url_for("archives") %>">Sommaire<%#= __('index.articles') %></a></span> -->
-  <a href="<%- full_url_for('/edito') %>">Édito</a>
   <ul class="post-list">
     <% var field_sort = theme.posts_overview.sort_updated ? 'updated' : 'date' %>
     <% var show_posts = page.posts.sort(field_sort, 'desc') %>
