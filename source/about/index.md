@@ -10,4 +10,4 @@ Gaëlle Rilliard, Alix Tulipe, Marie Clément, Lola-Lý Canac, Romain Gœtz
 Responsables éditoriaux : Pascale Paulat et Christophe Postic
 
 États généraux du film documentaire - Ardèche images 300 route de Mirabel, 07170 Lussas.
-etatsgeneraux@ardecheimages.org • <www.lussasdoc.org>
+etatsgeneraux@ardecheimages.org • www.lussasdoc.org
