@@ -9,7 +9,7 @@ published: true
 ---
 
 
-# Une joie cinéphile avec cerveau et coeur ensemble
+# Une joie cinéphile
 
 > Cette année, _Histoire de doc_ se transforme en _Histoires des formes_. En quoi cela a-t-il changé votre travail ?
 
