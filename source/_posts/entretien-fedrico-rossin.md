@@ -1,5 +1,5 @@
 ---
-title: 'Federico Rossin parle d''Histoire des formes '
+title: 'Federico Rossin parle d''_Histoires des formes_ '
 type: Entretien
 author: Alix Tulipe
 real: null
@@ -9,7 +9,7 @@ published: true
 ---
 
 
-# Federico Rossin parle d'Histoire des formes :
+# Federico Rossin parle d'_Histoires des formes_ :
 
 "une joie cinéphile avec cerveau et coeur ensemble"
 
@@ -19,7 +19,7 @@ published: true
 
 Il me semble qu’il aurait été obscène de prétendre qu’il s’agit d’une année comme une autre. _Histoires des formes_ est une méta-programmation où le spectateur est mis face au manque, à l’impossibilité de faire un festival. Pour moi c’est une manière de dire : ça n’aura pas lieu, mais ça a déjà eu lieu. Il a fallu tout repenser à partir de ce passé, regarder derrière nous mais aussi vers l'avant en créant quelque chose de nouveau : une manière de traverser l’histoire qui ne soit plus diachronique ni géographique. J’ai fait un travail de morphologue : un itinéraire qui rend compte des variations d’un même motif, d’une même typologie, comme l’essai filmique, par exemple. J'étudie la manière dont se déploie une mémoire culturelle.  
 C’est à la fois un hommage au travail d’autres programmateurs d'_Histoire de doc_ comme Kees Bakker et une traversée de celles que j'ai faites, mais aussi un moment de questionnement sur le geste de programmation.  
-Je viens à Lussas depuis 2008 et y travaille depuis 2009. J’ai suivi comme spectateur toutes les programmations de Kees Bakker. J'ai à présent des archives conséquentes de toutes les programmations, des dizaines de milliers de films. D’habitude dans _Histoire de doc_, j'engage un véritable travail d’historien. Il faut à la fois étudier l’histoire du pays, l’économie, la société ; se rendre dans le pays lorsque c'est possible pour aller dans les archives, les cinémathèques. Ce voyage dans ma chambre et à l’extérieur dure environ six ou spet mois pour appréhender toute cette matière, lire, et voir six ou sept cents films par pays.
+Je viens à Lussas depuis 2008 et y travaille depuis 2009. J’ai suivi comme spectateur toutes les programmations de Kees Bakker. J'ai à présent des archives conséquentes de toutes les programmations, des dizaines de milliers de films. D’habitude dans _Histoire de doc_, j'engage un véritable travail d’historien. Il faut à la fois étudier l’histoire du pays, l’économie, la société ; se rendre dans le pays lorsque c'est possible pour aller dans les archives, les cinémathèques. Ce voyage dans ma chambre et à l’extérieur dure environ six ou sept mois pour appréhender toute cette matière, lire, et voir six ou sept cents films par pays.
 Pour _Histoires des formes_ j’avais donc devant moi les catalogues et les archives  d’_Histoire de doc_ des années précédentes, avec l'envie de faire partager cette mémoire filmique que j'ai recueillie. À partir de là, j’ai fait un travail de remémoration et de revisionnage des films.
 
   
@@ -30,7 +30,7 @@ Pour _Histoires des formes_ j’avais donc devant moi les catalogues et les arch
 Dans ce contexte, tous les films sont évidemment des documents. Prenons l'exemple de la RDA, car il s’agissait d’une dictature ouvertement stalinienne jusque dans les années 1960. _Regardez cette ville_ de Karl Gass, qui défend en 1962 la construction du mur de Berlin, est l’exemple d’un film en apparence irrecevable car bourré de propagande. Avoir une lecture lente des documents me permet alors de repérer dans les films la marge de manoeuvre qu’ont les réalisateurs malgré la censure. Certains éléments dénoncées dans le film - la présence d’anciens nazis encore dans les institutions, l’Ouest ami du capitalisme sauvage et des Américains - apparaissent troublants de vérité aujourd’hui alors qu’on les prenait à l'époque pour de la propagande. Plus on est historien, moins les choses sont tranchées, plus il y a des nuances, plus on lit entre les lignes, dans les espaces blancs et les silences. Ce film est par ailleurs un chef-d’oeuvre formel, avec un montage pyrotechnique, eisensteinien, pour le comprendre il faut le remettre dans son contexte et pouvoir ainsi sentir sa modernité par rapport au cinéma occidental de l’époque. 
 
 
->De la même façon, est-ce qu’Histoire des formes est une manière de renouveler notre regard sur l’histoire du cinéma documentaire ?
+>De la même façon, est-ce qu’_Histoires des formes_ est une manière de renouveler notre regard sur l’histoire du cinéma documentaire ?
 
 
 L’histoire du cinéma documentaire est encore à écrire, car le peu qui existe se borne selon moi à des cinéastes et des films que tout le monde connaît. Une telle histoire mérite un travail sur les archives qui reste à faire. On se contente aussi d’idées reçues donc les frontières restent fermées et les films sont toujours les mêmes. La première séance d'_Histoires des formes_, « De la mise en scène », retrace l’histoire de l’acteur dans le cinéma documentaire. Elle mélange un film des années 1940 plutôt classique mais magistral, un film de la Pologne stalinienne des années 1950, un film de la Nouvelle Vague des années 1960. Il s’agit de balayer d’emblée une posture anti-historique qui ferait de la présence d’un acteur dans le cinéma documentaire d’aujourd’hui quelque chose d’audacieux alors que cela existe depuis _L’Affaire Dreyfus_ de Georges Méliès. L’enjeu est de déceler les germes, les bactéries documentaires là où l’on pensait voir une vie purement fictionnelle. Je dis souvent à mes étudiants qu'il y a beaucoup plus de documentaire qu'on ne pense. Une des choses les plus importantes du métier d’historien, c’est d'élargir le corpus. Par contre, loin de moi l’idée d’effacer les frontières entre fiction et documentaire. Je tiens à me démarquer immédiatement d’une lecture postmoderne de cette séance. Je ne suis pas du tout d’accord avec l’idée que la vérité n’existe pas, que fiction et documentaire, c’est du cinéma. Comme disait Arnaldo Momigliano, la recherche de la vérité dans l’opération de l’historien est fondamentale. Une vérité existe, elle est là. En tant qu’historien ou réalisateur on doit essayer de la faire ressortir, et pour cela, peu importe la méthode qu’on utilise.
