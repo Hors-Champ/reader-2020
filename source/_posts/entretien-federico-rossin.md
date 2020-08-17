@@ -7,6 +7,8 @@ filmDate: 2020
 published: true
 ---
 
+![](rossin.jpg)
+
 # Une joie cin&eacute;phile
 
 <div class="question">Cette ann&eacute;e, <em>Histoire de doc</em> se transforme en <em>Histoires des formes</em>. En quoi cela a-t-il chang&eacute; votre travail&nbsp;&quest;</div>
