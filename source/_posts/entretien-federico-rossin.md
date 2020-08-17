@@ -2,8 +2,6 @@
 title: Federico Rossin parle d'Histoires des formes
 type: Entretien
 author: Alix Tulipe
-real: ' '
-filmDate: 2020
 published: true
 ---
 
