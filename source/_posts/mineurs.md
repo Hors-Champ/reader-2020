@@ -7,6 +7,8 @@ published: true
 real: Ouahib Mortada
 ---
 
+![](Beaute_vue_de_haut.jpg)
+
 # Je ne souhaite pas figer le cadre
 
 Le g&eacute;n&eacute;rique achev&eacute;, des images reviennent sur l&rsquo;&eacute;cran. En pleine nuit, un groupe d’hommes traverse les rues d&eacute;sertes, scandant un hymne &agrave; leur ville, Jerada, domin&eacute;e par sa montagne d&rsquo;anthracite. Ville sinistr&eacute;e depuis la fermeture de la mine, condamn&eacute;e &agrave; voir ses enfants risquer leur peau dans des descenderies clandestines. Ville o&ugrave; naquit le syndicalisme marocain, o&ugrave; flambe encore la fiert&eacute; ouvri&egrave;re. Cette manifestation, repouss&eacute;e hors du film, pourrait &ecirc;tre la signature des mineurs pos&eacute;e &agrave; c&ocirc;t&eacute; de celle du r&eacute;alisateur Ouahib Mortada. Car il n&rsquo;a cess&eacute; de nous faire entendre leurs voix, tant&ocirc;t fustigeant les ministres, tant&ocirc;t prenant &agrave; partie le cin&eacute;aste&nbsp;&colon; &laquo;&nbsp;Va plut&ocirc;t voir tous ceux qui dorment et se gavent de l’argent de tous ces pauvres.&nbsp;&raquo; Apostrophe vigoureuse qui exige d&rsquo;exposer les coupables plut&ocirc;t que les victimes, de d&eacute;masquer l&rsquo;imposture du monstre afin d’y reconna&icirc;tre nos humaines turpitudes. &Agrave; ce risque qu&rsquo;il y a &agrave; d&eacute;m&ecirc;ler l&rsquo;&eacute;cheveau des responsabilit&eacute;s, &agrave; focaliser les regards vers les puissances de nuire, Ouahib Mortada pr&eacute;f&egrave;re le courage de l&rsquo;oralit&eacute;, de la *lokans*<sup>1</sup>. En nous emmenant sur cette voie parall&egrave;le, il nous propose une autre mani&egrave;re de former notre jugement.  
