@@ -1,5 +1,5 @@
 ---
-title: 'Federico Rossin parle d''_Histoires des formes_ '
+title: Federico Rossin parle d'Histoires des formes
 type: Entretien
 author: Alix Tulipe
 real: null
