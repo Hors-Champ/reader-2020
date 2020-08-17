@@ -1093,6 +1093,13 @@ body {
 .project-list .project-item p {
   display: inline;
 }
+.question {
+  margin: 0rem 10px 1rem;
+  padding: 0.5em 10px;
+  background: inherit;
+  color: #1fa778;
+  font-weight: normal;
+}
 article p {
   text-align: justify;
   text-justify: inter-character;
