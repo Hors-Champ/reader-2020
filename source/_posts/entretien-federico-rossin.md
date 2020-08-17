@@ -3,7 +3,7 @@ title: Federico Rossin parle d'Histoires des formes
 type: Entretien
 author: Alix Tulipe
 published: true
-real: ' '
+real: Federico Rossin
 ---
 
 ![](rossin.jpg)
