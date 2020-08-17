@@ -48,7 +48,7 @@ __LT__ Caroline et moi avons été attrapés par cette rugosité de l'image. Cel
 
 __OM__ Ce tremblé, pour moi, ce n'est pas du cinéma ! Cela ne me plaisait pas de le garder. Ce fut un moment très tendu du montage. Je voulais raconter par des cadres posés. J'ai dû donner cette liberté à Caroline, accepter de ne pas me censurer. Finalement, ce montage dévoile plutôt qu'il ne raconte. 
 
-__LT__ Ce long travail nous a fait comprendre que certaines matières n’avaient pas leur place dans le film. Par exemple, quand Ouahib filmait l'amicale des anciens de Jerada, qui permet aux personnes qui y ont vécu jusqu'à l'indépendance de se retrouver, sa caméra ne tremblait plus. Nous avons compris que ces images appartenaient à une autre histoire. 
+__LT__ Ce long travail nous a fait comprendre que certaines matières n’avaient pas leur place dans le film. Par exemple, quand Ouahib filmait l'amicale des anciens de Jerada, qui permet aux personnes qui en sont parties de se retrouver, sa caméra ne tremblait plus. Nous avons compris que ces images appartenaient à une autre histoire. 
 
 __OM__ Je ne suis pas un membre actif de l'amicale de Jerada. J'ai filmé leurs réunions et je pense que ces images vont trouver une place dans un autre film. Je collectionne les récits en provenance de confessions différentes, d'origines différentes. Il existe par exemple le récit d'un colonel fils d'un mécanicien de la mine, intitulé *Djerada* - le nom de la ville avant 1932. J'ai pensé *Mineurs* comme le premier volet d'un triptyque qui irait jusqu'à la fin des descenderies. Ce film sensibilise le public à cette situation, et cela nous donne le courage de continuer à prospecter. 
 
