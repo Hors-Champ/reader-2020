@@ -9,7 +9,7 @@ published: true
 
 
 
-# Un bouquet de fleurs derrière lequel tempête la résistance
+# Je ne souhaite pas figer le cadre
 
 
 Le générique achevé, des images reviennent sur l’écran. En pleine nuit, un groupe d’hommes traverse les rues désertes, scandant un hymne à leur ville, Jerada, dominée par sa montagne d’anthracite. Ville sinistrée depuis la fermeture de la mine, condamnée à voir ses enfants risquer leur peau dans des descenderies clandestines. Ville où naquit le syndicalisme marocain, où flambe encore la fierté ouvrière. Cette manifestation, repoussée hors du film, pourrait être la signature des mineurs posée à côté de celle du réalisateur Ouahib Mortada. Car il n’a cessé de nous faire entendre leurs voix, tantôt fustigeant les ministres, tantôt prenant à partie le cinéaste : (guillemets) Va plutôt voir tous ceux qui dorment et se gavent de l’argent de tous ces pauvres. Apostrophe vigoureuse qui exige d’exposer les coupables plutôt que les victimes, de démasquer l’imposture du monstre afin d’y reconnaître nos humaines turpitudes. À ce risque qu’il y a à démêler l’écheveau des responsabilités, à focaliser les regards vers les puissances de nuire, Ouahib Mortada préfère le courage de l'oralité, de la *lokans* 1. En nous emmenant sur cette voie parallèle, il nous propose une autre manière de former notre jugement.  
