@@ -4,6 +4,7 @@ type: Entretien
 author: Alix Tulipe
 published: true
 real: Federico Rossin
+filmDate: 2020
 ---
 
 ![](rossin.jpg)
