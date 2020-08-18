@@ -5,7 +5,7 @@ author: Lola-Lý Canac
 real: Susana de Sousa Dias
 filmDate: 2019
 published: true
-date: 2020-08-17T00:00:00.000Z
+date: {}
 ---
 
 ![](fordlandia.jpg)
@@ -22,7 +22,7 @@ Pourtant Fordl&acirc;ndia existe toujours. Les insectes et les oiseaux sont bien
 
 > Il y a un Indien ici &agrave; Fordl&acirc;ndia, un seul, il est fou. Il fume des cigarettes grosses comme &ccedil;a&nbsp;&excl; L&rsquo;Indien, il habite dans la rue.
 
-De Fordl&acirc;ndia il ne reste que le nom, dit la voix d&rsquo;une femme &acirc;g&eacute;e. L&rsquo;attention est &eacute;trangement tendue entre les paroles et les paysages, et on saisit le portrait m&eacute;tis d&rsquo;une ville que l&rsquo;invisibilit&eacute; et l&rsquo;anonymat semblent prot&eacute;ger autant qu&rsquo;ils l&rsquo;enferment. Un portrait qui croise les croyances et l&eacute;gendes amazoniennes, la nostalgie d&rsquo;une activit&eacute; r&eacute;volue depuis longtemps, les doutes et les peurs qui se transmettent au fil des g&eacute;n&eacute;rations, la m&eacute;moire du dernier si&egrave;cle qui perdure, le renouveau, aussi. Ce n&rsquo;est plus le portrait d&rsquo;une ville fant&ocirc;me, pas celui d&rsquo;une d&eacute;faite, ni du dernier indien de la ville qui vit dans la rue, seul et ivre. Ces voix proclament l&rsquo;existence d&rsquo;un Fordl&acirc;ndia d&rsquo;aujourd&rsquo;hui, construit sur les s&eacute;quelles du pass&eacute;.
+De Fordl&acirc;ndia il ne reste que le nom, dit la voix d&rsquo;une femme &acirc;g&eacute;e. L&rsquo;attention est &eacute;trangement tendue entre les paroles et les paysages, et on saisit le portrait m&eacute;tis d&rsquo;une ville que l&rsquo;invisibilit&eacute; et l&rsquo;anonymat semblent prot&eacute;ger autant qu&rsquo;ils l&rsquo;enferment. Un portrait qui croise les croyances et l&eacute;gendes amazoniennes, la nostalgie d&rsquo;une activit&eacute; r&eacute;volue depuis longtemps, les doutes et les peurs qui se transmettent au fil des g&eacute;n&eacute;rations, la m&eacute;moire du dernier si&egrave;cle qui perdure, le renouveau, aussi. Ce n&rsquo;est plus le portrait d&rsquo;une ville fant&ocirc;me, pas celui d&rsquo;une d&eacute;faite, ni du dernier Indien de la ville qui vit dans la rue, seul et ivre. Ces voix proclament l&rsquo;existence d&rsquo;un Fordl&acirc;ndia d&rsquo;aujourd&rsquo;hui, construit sur les s&eacute;quelles du pass&eacute;.
 
 > Viens des quatre vents, &ocirc; souffle de la vie, et souffle sur ces morts pour qu&rsquo;ils vivent […]. Ils se sont lev&eacute;s, et c&rsquo;&eacute;tait une immense arm&eacute;e.
 
