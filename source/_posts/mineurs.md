@@ -56,7 +56,7 @@ Cependant, mon but n&rsquo;est pas de d&eacute;noncer les barons du charbon mais
 
 ----
 
-**1**&nbsp;&colon; Eddy Firmin, *Je-corps et arts visuels*, dans *Voix/Voies entrav&eacute;es, perc&eacute;es &eacute;mancipatrices*, *Tumultes* n°54, Textes r&eacute;unis par D&eacute;coloniser les arts, juin 2020, p. 72.
+**1**&nbsp;&colon; Eddy Firmin, Je-corps et arts visuels, *Voix/Voies entrav&eacute;es, perc&eacute;es &eacute;mancipatrices*, *Tumultes* n°54, Textes r&eacute;unis par D&eacute;coloniser les arts, juin 2020, p. 72.
 
 ---
 
